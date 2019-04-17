@@ -1,0 +1,5 @@
+OrderedDictionary {
+	'packages\/TogglClient-Core.package' : #SquotCypressCodeSerializer,
+	'packages\/TogglClient-Tests.package' : #SquotCypressCodeSerializer,
+	'packages\/BaselineOfTogglClient.package' : #SquotCypressCodeSerializer
+}
