@@ -1,0 +1,14 @@
+{
+	"category" : "TogglClient-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TogglClientModel",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }
