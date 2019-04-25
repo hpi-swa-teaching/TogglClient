@@ -6,11 +6,11 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"taskList",
-		"currentSelection",
-		"currentText" ],
-	"name" : "TogglClientModel",
+		"description",
+		"startTime",
+		"stopTime" ],
+	"name" : "Task",
 	"pools" : [
 		 ],
-	"super" : "Model",
+	"super" : "Object",
 	"type" : "normal" }
