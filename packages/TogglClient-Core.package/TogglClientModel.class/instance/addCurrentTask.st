@@ -1,5 +1,7 @@
 accessing
 addCurrentTask
 	| task |
-	task := Task new description: self currentText.
+	task := Task new.
+	task description: self currentText asString.
+	
 	self addTask: task.
