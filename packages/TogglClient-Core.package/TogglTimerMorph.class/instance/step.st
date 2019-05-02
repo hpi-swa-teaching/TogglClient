@@ -11,4 +11,4 @@ step
 			print24: (show24hr == true)
 			showSeconds: (showSeconds == true)
 			on: stream].
-	self contents: time
+	self contents: time.

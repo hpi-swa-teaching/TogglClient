@@ -8,7 +8,9 @@
 	"instvars" : [
 		"taskList",
 		"currentSelection",
-		"currentText" ],
+		"currentText",
+		"timer",
+		"timerDuration" ],
 	"name" : "TogglClientModel",
 	"pools" : [
 		 ],

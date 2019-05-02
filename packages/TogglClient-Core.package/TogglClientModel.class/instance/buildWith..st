@@ -9,5 +9,6 @@ buildWith: aBuilder
 			self buildPanelWith: aBuilder.
 			self buildTaskListWith: aBuilder.
 			self buildInputFieldWith: aBuilder.
+			self buildTimerWith: aBuilder.
 			self buildAddButtonWith: aBuilder}
 		yourself)
