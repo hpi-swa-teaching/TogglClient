@@ -10,7 +10,8 @@
 		"currentSelection",
 		"currentText",
 		"timer",
-		"timerDuration" ],
+		"timerDuration",
+		"startTime" ],
 	"name" : "TogglClientModel",
 	"pools" : [
 		 ],
