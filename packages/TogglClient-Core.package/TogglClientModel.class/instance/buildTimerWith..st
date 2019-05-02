@@ -3,7 +3,6 @@ buildTimerWith: aBuilder
 	
 	^ aBuilder pluggableTextSpec new
 		getText: #timerDuration;
-		setText: #timerDuration:;
 		model: self;
 		frame: (LayoutFrame new
 			leftFraction: 0.6 offset: 0;
