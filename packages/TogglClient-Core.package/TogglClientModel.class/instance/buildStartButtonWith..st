@@ -4,7 +4,7 @@ buildStartButtonWith: aBuilder
 	^ aBuilder pluggableButtonSpec new
 		model: self;
 		label: 'Start';
-		action: #addCurrentTask;
+		action: #startTimer;
 		frame: (LayoutFrame new
 			leftFraction: 0.8 offset: 0;
 			topFraction: 0 offset: 0;
