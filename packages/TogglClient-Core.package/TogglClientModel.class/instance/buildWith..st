@@ -6,6 +6,7 @@ buildWith: aBuilder
 		label: 'Toggl Client';
 		extent: 500@400;
 		children: {
+			self buildPanelWith: aBuilder.
 			self buildTaskListWith: aBuilder.
 			self buildInputFieldWith: aBuilder.
 			self buildAddButtonWith: aBuilder}

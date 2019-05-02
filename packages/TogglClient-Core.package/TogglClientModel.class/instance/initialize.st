@@ -2,4 +2,4 @@ accessing
 initialize
 
 	super initialize.
-	self taskList: OrderedCollection new
+	self taskList: OrderedCollection new.

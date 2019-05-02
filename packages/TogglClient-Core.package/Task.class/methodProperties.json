@@ -2,7 +2,11 @@
 	"class" : {
 		 },
 	"instance" : {
-		"asString" : "JZY 4/29/2019 12:32",
+		"asString" : "JZY 5/2/2019 11:06",
 		"description" : "JZY 4/25/2019 13:27",
 		"description:" : "JZY 4/25/2019 13:27",
-		"initialize" : "JZY 4/25/2019 13:27" } }
+		"initialize" : "JZY 4/29/2019 14:57",
+		"startTime" : "JZY 4/29/2019 14:58",
+		"startTime:" : "JZY 4/29/2019 14:58",
+		"stopTime" : "JZY 4/29/2019 14:58",
+		"stopTime:" : "JZY 4/29/2019 14:58" } }

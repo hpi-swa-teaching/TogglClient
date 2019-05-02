@@ -1,3 +1,3 @@
 as yet unclassified
 asString
-	^ self description
+	^ self description , String space , self startTime print24
