@@ -10,5 +10,6 @@ buildWith: aBuilder
 			self buildTaskListWith: aBuilder.
 			self buildInputFieldWith: aBuilder.
 			self buildTimerWith: aBuilder.
-			self buildAddButtonWith: aBuilder}
+			self buildStartButtonWith: aBuilder.
+			self buildStopButtonWith: aBuilder}
 		yourself)

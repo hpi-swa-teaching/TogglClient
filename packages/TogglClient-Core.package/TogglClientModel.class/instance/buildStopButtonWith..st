@@ -1,9 +1,9 @@
 accessing
-buildAddButtonWith: aBuilder
+buildStopButtonWith: aBuilder
 	
 	^ aBuilder pluggableButtonSpec new
 		model: self;
-		label: 'Start';
+		label: 'Stop';
 		action: #addCurrentTask;
 		frame: (LayoutFrame new
 			leftFraction: 0.9 offset: 0;
