@@ -1,4 +1,4 @@
-accessing
+toolbuilder
 buildPanelWith: aBuilder
 	
 	^ aBuilder pluggablePanelSpec new

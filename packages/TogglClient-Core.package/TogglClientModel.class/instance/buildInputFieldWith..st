@@ -1,4 +1,4 @@
-accessing
+toolbuilder
 buildInputFieldWith: aBuilder
 	
 	^ aBuilder pluggableTextSpec new

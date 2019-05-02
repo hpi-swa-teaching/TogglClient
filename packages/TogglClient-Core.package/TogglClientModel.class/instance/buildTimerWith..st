@@ -1,4 +1,4 @@
-accessing
+toolbuilder
 buildTimerWith: aBuilder
 	
 	^ aBuilder pluggableTextSpec new

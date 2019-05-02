@@ -1,4 +1,4 @@
-accessing
+actions
 addCurrentTask
 	| task |
 	task := Task new.
