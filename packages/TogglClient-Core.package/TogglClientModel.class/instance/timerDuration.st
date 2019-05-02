@@ -1,4 +1,4 @@
 accessing
 timerDuration
 
-	^ timer duration asString
+	^ timerDuration
