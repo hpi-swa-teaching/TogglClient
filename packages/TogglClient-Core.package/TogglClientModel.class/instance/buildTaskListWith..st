@@ -4,6 +4,7 @@ buildTaskListWith: aBuilder
 	^ aBuilder pluggableListSpec new
 		model: self;
 		list: #taskList;
+		menu: #taskListMenu:;
 		getSelected: #currentSelection;
 		setSelected: #currentSelection:;
 		frame: (LayoutFrame new

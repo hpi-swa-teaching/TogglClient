@@ -1,0 +1,4 @@
+accessing
+step
+
+	self updateTimerDuration

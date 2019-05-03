@@ -1,4 +1,4 @@
-actions
+accessing
 addTask: aTask
-	self taskList addLast: aTask.
+	self taskList addFirst: aTask.
 	self changed: #taskList.
