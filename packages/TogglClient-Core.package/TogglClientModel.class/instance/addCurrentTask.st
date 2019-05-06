@@ -8,4 +8,5 @@ addCurrentTask
 	self currentText
 		ifEmpty: [task description: 'no description']
 		ifNotEmpty: [task description: self currentText asString].
-	self addTask: task
+	self addTask: task.
+	self currentText: ''.
