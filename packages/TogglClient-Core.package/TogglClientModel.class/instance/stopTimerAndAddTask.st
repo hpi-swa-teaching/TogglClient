@@ -1,8 +1,8 @@
 accessing
 stopTimerAndAddTask
 
-	
-	self stopTimer.
-	self addCurrentTask
+	self timer isActive ifTrue:[
+		self stopTimer.
+		self addCurrentTask]
 
 	

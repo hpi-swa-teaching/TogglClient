@@ -1,7 +1,8 @@
 accessing
 startTimer 
 
-	
-	self timer activate.
-	self startTime: Time now.
+	self timer isActive ifFalse: [
+		self timer activate.
+		self startTime: Time now.
+	]
 	
