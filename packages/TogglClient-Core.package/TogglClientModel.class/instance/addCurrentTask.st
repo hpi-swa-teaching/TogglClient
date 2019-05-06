@@ -1,9 +1,11 @@
-accessing
+actions
 addCurrentTask
 	| task |
 	task := Task new.
-	task description: self currentText asString.
-	task startTime: self startTime.
-	task stopTime: Time now.
-	
+	task
+		startTime: self startTime;
+		stopTime: Time now.
+	self currentText
+		ifEmpty: [task description: 'no description']
+		ifNotEmpty: [task description: self currentText asString].
 	self addTask: task

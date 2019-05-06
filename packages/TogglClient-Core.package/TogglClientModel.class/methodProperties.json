@@ -2,7 +2,7 @@
 	"class" : {
 		"open" : "JZY 4/25/2019 13:22" },
 	"instance" : {
-		"addCurrentTask" : "MR 5/2/2019 14:12",
+		"addCurrentTask" : "JZY 5/6/2019 13:18",
 		"addTask:" : "THH 5/2/2019 16:19",
 		"buildInputFieldWith:" : "MR 5/2/2019 13:49",
 		"buildPanelWith:" : "JZY 4/30/2019 12:10",
@@ -19,7 +19,7 @@
 		"renameTask" : "JZY 5/6/2019 12:03",
 		"startTime" : "MR 5/2/2019 14:06",
 		"startTime:" : "MR 5/2/2019 14:06",
-		"startTimer" : "JZY 5/6/2019 12:59",
+		"startTimer" : "JZY 5/6/2019 13:20",
 		"step" : "MR 5/2/2019 14:45",
 		"stopTimer" : "MR 5/2/2019 14:07",
 		"stopTimerAndAddTask" : "JZY 5/6/2019 13:00",
@@ -32,4 +32,4 @@
 		"timerDuration:" : "MR 5/2/2019 14:44",
 		"timerDurationAs24hour" : "THH 5/2/2019 16:14",
 		"updateTimerDuration" : "MR 5/2/2019 14:53",
-		"wantsSteps" : "MR 5/2/2019 14:41" } }
+		"wantsSteps" : "JZY 5/6/2019 13:19" } }

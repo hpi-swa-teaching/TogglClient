@@ -1,4 +1,4 @@
-accessing
+actions
 stopTimer 
 
 	self timer reset

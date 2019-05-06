@@ -1,4 +1,4 @@
-accessing
+actions
 updateTimerDuration
 
 	self timerDuration: self timerDurationAs24hour.
