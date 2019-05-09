@@ -1,3 +1,6 @@
 actions
 renameTask
-	self currentSelection description: (UIManager default request: 'Enter new description' initialAnswer: self currentSelection description)
+	self currentSelection renameTo: 
+		(UIManager default
+			request: 'Enter new description'
+			initialAnswer: self currentSelection description)
