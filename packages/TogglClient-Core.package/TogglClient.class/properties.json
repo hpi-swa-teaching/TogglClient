@@ -12,7 +12,7 @@
 		"timer",
 		"timerDuration",
 		"startTime" ],
-	"name" : "TogglClientModel",
+	"name" : "TogglClient",
 	"pools" : [
 		 ],
 	"super" : "Model",
