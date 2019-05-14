@@ -1,5 +1,5 @@
 running
 setUp
 
-	client := TogglClient open.
+	client := TogglClient new.
 	toolbuilder := ToolBuilder default
