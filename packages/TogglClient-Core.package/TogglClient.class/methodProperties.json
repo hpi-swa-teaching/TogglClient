@@ -1,14 +1,15 @@
 {
 	"class" : {
-		"initialize" : "JZY 5/9/2019 11:23" },
+		"initialize" : "JZY 5/9/2019 11:23",
+		"open" : "JZY 4/25/2019 13:22" },
 	"instance" : {
-		"addCurrentTask" : "JZY 5/9/2019 11:42",
+		"addCurrentTask" : "THH 5/9/2019 14:50",
 		"addTask:" : "THH 5/2/2019 16:19",
 		"buildInputFieldWith:" : "MR 5/2/2019 13:49",
 		"buildPanelWith:" : "JZY 4/30/2019 12:10",
 		"buildStartButtonWith:" : "MR 5/2/2019 13:53",
 		"buildStopButtonWith:" : "MR 5/2/2019 13:58",
-		"buildTaskListWith:" : "JZY 5/2/2019 14:22",
+		"buildTaskListWith:" : "THH 5/9/2019 14:46",
 		"buildTimerWith:" : "THH 5/2/2019 14:17",
 		"buildWith:" : "MR 5/2/2019 13:50",
 		"currentSelection" : "JZY 4/25/2019 14:02",
