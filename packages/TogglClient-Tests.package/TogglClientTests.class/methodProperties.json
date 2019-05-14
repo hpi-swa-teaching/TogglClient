@@ -3,4 +3,9 @@
 		 },
 	"instance" : {
 		"setUp" : "JZY 5/14/2019 11:25",
-		"testBuildPanelWithReturnsSpec" : "JZY 5/14/2019 11:14" } }
+		"testBuildInputFieldWithReturnsSpec" : "JZY 5/14/2019 11:32",
+		"testBuildPanelWithReturnsSpec" : "JZY 5/14/2019 11:14",
+		"testBuildStartButtonWithReturnsSpec" : "JZY 5/14/2019 11:32",
+		"testBuildStopButtonWithReturnsSpec" : "JZY 5/14/2019 11:32",
+		"testBuildTaskListWithReturnsSpec" : "JZY 5/14/2019 11:33",
+		"testBuildTimerWithReturnsSpec" : "JZY 5/14/2019 11:33" } }
