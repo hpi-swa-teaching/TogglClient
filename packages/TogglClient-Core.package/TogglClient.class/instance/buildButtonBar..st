@@ -1,12 +1,12 @@
 toolbuilder
 buildButtonBar: builder
-	| buttonBar accountButton |
+	| buttonBar accountButton authenticateButton |
 	buttonBar := builder pluggablePanelSpec new
 		layout: #horizontal;
 		"spacing: -1;"
 		children: OrderedCollection new;
 		frame: (LayoutFrame new leftFraction: 0 offset: 0;
-					 topFraction: 1 offset: -25;
+					 topFraction: 1 offset: -30;
 					 rightFraction: 1 offset: 0;
 					 bottomFraction: 1 offset: 0)
 		yourself.
@@ -14,11 +14,17 @@ buildButtonBar: builder
 	accountButton := builder pluggableActionButtonSpec new.
 	accountButton
 		model: self;
-		label: 'Authenticate';
+		label: 'Account settings';
 		action: #actionAuthenticate;
 		help: 'Edit your Toggl account info.'.
+		
+	authenticateButton := builder pluggableActionButtonSpec new.
+	authenticateButton
+		model: self;
+		label: 'Authenticate';
+		action: #startAuthentication;
+		help: 'Authenticate yourself.'.
 
 	buttonBar children addAll: {
-		builder pluggableSpacerSpec new.
-		accountButton. builder pluggableSpacerSpec new. }.
+		accountButton. builder pluggableSpacerSpec new. authenticateButton }.
 	^ buttonBar
