@@ -1,0 +1,16 @@
+{
+	"category" : "TogglClient-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"userEmail",
+		"userName",
+		"userPassword" ],
+	"name" : "TogglAccountSettings",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }
