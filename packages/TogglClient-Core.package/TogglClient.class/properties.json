@@ -11,8 +11,7 @@
 		"currentText",
 		"timer",
 		"timerDuration",
-		"startTime",
-		"testContent" ],
+		"startTime" ],
 	"name" : "TogglClient",
 	"pools" : [
 		 ],
