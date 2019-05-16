@@ -1,5 +1,5 @@
 actions
 actionSaveAndClose
 	userName ifNotNil: [TogglAccount defaultName: userName].
-	userEmail ifNotNil: [TogglAccount defaultEmail: userEmail].
+	userPassword ifNotNil: [TogglAccount defaultPassword: userPassword].
 	self changed: #close.
