@@ -5,5 +5,6 @@ addCurrentTask
 	task
 		startTime: self startTime;
 		stopTime: Time now;
-		renameTo: self currentText copy.
+		"copy by reference error fix 1: as in ToolBuilder Tutorial - asString"
+		renameTo: self currentText asString.
 	self addTask: task.
