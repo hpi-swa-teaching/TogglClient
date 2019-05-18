@@ -1,3 +1,4 @@
 accessing
-currentText: anObject
-	currentText := anObject
+currentText: aText
+	currentText := aText.
+	self changed: #currentText.
