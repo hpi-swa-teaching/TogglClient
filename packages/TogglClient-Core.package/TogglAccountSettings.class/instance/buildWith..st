@@ -6,5 +6,5 @@ buildWith: builder
 		autoCancel: true;
 		extent: 200@60;
 		message: 'Edit global Toggl account information:';
-		children: {self buildInputPanel: builder};
-		buttons: (self buildButtons: builder))
+		children: {self buildInputPanelWith: builder};
+		buttons: (self buildButtonsWith: builder))

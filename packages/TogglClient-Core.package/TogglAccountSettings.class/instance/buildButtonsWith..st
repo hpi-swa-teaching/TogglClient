@@ -1,5 +1,5 @@
 toolbuilder
-buildButtons: builder
+buildButtonsWith: builder
 	^ {
 	builder pluggableButtonSpec new
 		model: self; 

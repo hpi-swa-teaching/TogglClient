@@ -1,0 +1,4 @@
+initialisation
+authenticated
+
+	^ authenticated

@@ -3,6 +3,7 @@
 		 },
 	"instance" : {
 		"setUp" : "JZY 5/14/2019 11:25",
+		"testBuildButtonBarWithReturnsSpec" : "lw 5/16/2019 11:48",
 		"testBuildInputFieldWithReturnsSpec" : "JZY 5/14/2019 11:32",
 		"testBuildPanelWithReturnsSpec" : "JZY 5/14/2019 11:14",
 		"testBuildStartButtonWithReturnsSpec" : "JZY 5/14/2019 11:32",

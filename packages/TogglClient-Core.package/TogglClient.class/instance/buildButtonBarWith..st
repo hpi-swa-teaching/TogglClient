@@ -1,5 +1,5 @@
 toolbuilder
-buildButtonBar: builder
+buildButtonBarWith: builder
 	| buttonBar accountButton authenticateButton |
 	buttonBar := builder pluggablePanelSpec new
 		layout: #horizontal;
@@ -23,6 +23,7 @@ buildButtonBar: builder
 		model: self;
 		label: 'Authenticate';
 		action: #startAuthentication;
+		color: #getAuthenticationColor;
 		help: 'Authenticate yourself.'.
 
 	buttonBar children addAll: {

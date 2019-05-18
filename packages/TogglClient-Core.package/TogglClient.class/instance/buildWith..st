@@ -12,5 +12,5 @@ buildWith: aBuilder
 			self buildTimerWith: aBuilder.
 			self buildStartButtonWith: aBuilder.
 			self buildStopButtonWith: aBuilder.
-			self buildButtonBar: aBuilder }
+			self buildButtonBarWith: aBuilder }
 		yourself)

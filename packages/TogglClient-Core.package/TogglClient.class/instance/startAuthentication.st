@@ -7,6 +7,12 @@ startAuthentication
 				request headerAt: 'Authorization' put: 'Basic ', (TogglAccount defaultName, ':', TogglAccount defaultPassword) base64Encoded].
 			
 	Transcript show: response code.
+	response code = 200 
+		ifTrue: [self authenticated: true.
+				self changed: #getAuthenticationColor.]
+		ifFalse: [self authenticated: false.
+				self changed: #getAuthenticationColor.]
+	
 	"JsonObject := (Json readFrom: response content utf8ToSqueak readStream)." "doesnt work"
 	
 	

@@ -1,5 +1,5 @@
 toolbuilder
-buildInputFields: builder
+buildInputFieldsWith: builder
 	^ {
 	builder pluggableInputFieldSpec new
 		model: self;
