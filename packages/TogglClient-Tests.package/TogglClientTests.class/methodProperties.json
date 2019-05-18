@@ -11,4 +11,9 @@
 		"testBuildStartButtonWithReturnsSpec" : "JZY 5/14/2019 11:32",
 		"testBuildStopButtonWithReturnsSpec" : "JZY 5/14/2019 11:32",
 		"testBuildTaskListWithReturnsSpec" : "JZY 5/14/2019 11:33",
-		"testBuildTimerWithReturnsSpec" : "JZY 5/14/2019 11:33" } }
+		"testBuildTimerWithReturnsSpec" : "JZY 5/14/2019 11:33",
+		"testRenameFromEmptyStringToNonEmptyString" : "lw 5/18/2019 22:50",
+		"testRenameToEmptyString" : "lw 5/18/2019 22:46",
+		"testRenameToNonEmptyString" : "lw 5/18/2019 22:46",
+		"testStartTimer" : "lw 5/18/2019 23:09",
+		"testStopTimer" : "lw 5/18/2019 23:10" } }
