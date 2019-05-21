@@ -4,3 +4,4 @@ renameTask
 		(UIManager default
 			request: 'Enter new description'
 			initialAnswer: self currentSelection description).
+	self changed: #taskList.

@@ -8,7 +8,7 @@ buildTaskListWith: aBuilder
 		getSelected: #currentSelection;
 		setSelected: #currentSelection:;
 		columns: {[:listMorph | (listMorph filteredItems collect: [:item |
-					item preferredWidthOfColumn: 3]) max].
+					item preferredWidthOfColumn: 1]) max].
 				[:listMorph | (listMorph filteredItems collect: [:item |
 					item preferredWidthOfColumn: 3]) max].
 			[:listMorph | (listMorph filteredItems collect: [:item |
