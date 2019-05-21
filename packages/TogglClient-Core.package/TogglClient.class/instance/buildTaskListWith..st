@@ -8,15 +8,13 @@ buildTaskListWith: aBuilder
 		getSelected: #currentSelection;
 		setSelected: #currentSelection:;
 		columns: {[:listMorph | (listMorph filteredItems collect: [:item |
-					item preferredWidthOfColumn: 1]) max].
+					item preferredWidthOfColumn: 3]) max].
 				[:listMorph | (listMorph filteredItems collect: [:item |
-					item preferredWidthOfColumn: 2]) max].
+					item preferredWidthOfColumn: 3]) max].
 			[:listMorph | (listMorph filteredItems collect: [:item |
-					item preferredWidthOfColumn: 2]) max].
+					item preferredWidthOfColumn: 3]) max].
 			[:listMorph | (listMorph filteredItems collect: [:item |
-					item preferredWidthOfColumn: 2]) max].
-			[:listMorph | (listMorph filteredItems collect: [:item |
-					item preferredWidthOfColumn: 2]) max].
+					item preferredWidthOfColumn: 3]) max].
 				nil "take all the space"};
 		frame: (LayoutFrame new
 			leftFraction: 0 offset: 0;
