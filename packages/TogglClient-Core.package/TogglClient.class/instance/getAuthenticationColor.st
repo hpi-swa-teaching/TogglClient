@@ -2,5 +2,5 @@ initialisation
 getAuthenticationColor
 
 	self authenticated 
-		ifTrue: [^ Color clover.]
+		ifTrue: [^ Color paleGreen.]
 		ifFalse: [^ Color red. ]
