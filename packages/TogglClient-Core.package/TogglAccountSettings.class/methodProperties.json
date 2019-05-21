@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"defaultTitle" : "lw 5/15/2019 19:39",
+		"open" : "fn 4/12/2017 09:18" },
+	"instance" : {
+		"actionCancel" : "fn 4/12/2017 10:29",
+		"actionSaveAndClose" : "lw 5/16/2019 11:35",
+		"actionUserName" : "lw 5/15/2019 19:44",
+		"actionUserName:" : "fn 4/12/2017 10:34",
+		"actionUserPassword" : "lw 5/15/2019 19:44",
+		"actionUserPassword:" : "lw 5/15/2019 19:42",
+		"buildButtonsWith:" : "lw 5/16/2019 11:52",
+		"buildInputFieldsWith:" : "lw 5/16/2019 11:52",
+		"buildInputPanelWith:" : "lw 5/16/2019 11:52",
+		"buildWith:" : "lw 5/16/2019 11:52",
+		"close" : "fn 4/12/2017 10:02",
+		"labelString" : "fn 4/12/2017 09:18" } }

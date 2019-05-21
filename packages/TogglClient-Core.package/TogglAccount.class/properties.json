@@ -1,0 +1,15 @@
+{
+	"category" : "TogglClient-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DefaultName",
+		"DefaultPassword" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TogglAccount",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

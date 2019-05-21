@@ -3,9 +3,17 @@
 		 },
 	"instance" : {
 		"setUp" : "JZY 5/14/2019 11:25",
+		"testAuthenticationButtonColorIfAuthenticated" : "lw 5/21/2019 13:48",
+		"testAuthenticationButtonColorIfNotAuthenticated" : "lw 5/18/2019 22:26",
+		"testBuildButtonBarWithReturnsSpec" : "lw 5/16/2019 11:48",
 		"testBuildInputFieldWithReturnsSpec" : "THH 5/18/2019 22:50",
 		"testBuildPanelWithReturnsSpec" : "JZY 5/14/2019 11:14",
 		"testBuildStartButtonWithReturnsSpec" : "JZY 5/14/2019 11:32",
 		"testBuildStopButtonWithReturnsSpec" : "JZY 5/14/2019 11:32",
 		"testBuildTaskListWithReturnsSpec" : "JZY 5/14/2019 11:33",
-		"testBuildTimerWithReturnsSpec" : "JZY 5/14/2019 11:33" } }
+		"testBuildTimerWithReturnsSpec" : "JZY 5/14/2019 11:33",
+		"testRenameFromEmptyStringToNonEmptyString" : "lw 5/18/2019 22:50",
+		"testRenameToEmptyString" : "lw 5/18/2019 22:46",
+		"testRenameToNonEmptyString" : "lw 5/18/2019 22:46",
+		"testStartTimer" : "lw 5/18/2019 23:09",
+		"testStopTimer" : "lw 5/18/2019 23:10" } }
