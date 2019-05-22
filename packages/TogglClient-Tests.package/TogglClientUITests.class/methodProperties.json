@@ -6,4 +6,5 @@
 		"testAddCurrentTaskWithDescription" : "THH 5/18/2019 22:59",
 		"testAddCurrentTaskWithoutDescription" : "THH 5/18/2019 23:00",
 		"testAddMultipleTasksWithDifferentDescriptions" : "THH 5/18/2019 21:09",
-		"testAddTask" : "THH 5/9/2019 20:44" } }
+		"testAddTask" : "THH 5/9/2019 20:44",
+		"testDisplayRenameChanges" : "THH 5/21/2019 23:26" } }
