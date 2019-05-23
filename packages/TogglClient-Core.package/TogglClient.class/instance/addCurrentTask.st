@@ -5,5 +5,5 @@ addCurrentTask
 	task
 		startTime: self startTime;
 		stopTime: Time now;
-		renameTo: self currentText copy.
+		renameTo: self currentText asString.
 	self addTask: task.
