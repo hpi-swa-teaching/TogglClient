@@ -1,8 +1,8 @@
 actions
-stopTimerAndAddTask
+stopTimerAndAddTimeEntry
 
 	self timer isActive ifTrue:[
 		self stopTimer.
-		self addCurrentTask]
+		self addCurrentTimeEntry]
 
 	

@@ -2,5 +2,5 @@ tests-building
 testBuildTaskListWithReturnsSpec
 
 	| spec |
-	spec := client buildTaskListWith: toolbuilder.
+	spec := client buildTimeEntryListWith: toolbuilder.
 	self assert: (spec isKindOf: ToolBuilderSpec)

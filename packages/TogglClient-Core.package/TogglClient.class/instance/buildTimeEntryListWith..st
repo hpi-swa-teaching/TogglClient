@@ -1,10 +1,10 @@
 toolbuilder
-buildTaskListWith: aBuilder
+buildTimeEntryListWith: aBuilder
 	
 	^ aBuilder pluggableTreeSpec new
 		model: self;
-		roots: #taskList;
-		menu: #taskListMenu:;
+		roots: #timeEntryList;
+		menu: #timeEntryListMenu:;
 		getSelected: #currentSelection;
 		setSelected: #currentSelection:;
 		columns: {[:listMorph | (listMorph filteredItems collect: [:item |

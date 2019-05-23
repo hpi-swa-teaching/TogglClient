@@ -10,7 +10,7 @@
 		"startTime",
 		"stopTime",
 		"running" ],
-	"name" : "Task",
+	"name" : "TogglTimeEntry",
 	"pools" : [
 		 ],
 	"super" : "Object",
