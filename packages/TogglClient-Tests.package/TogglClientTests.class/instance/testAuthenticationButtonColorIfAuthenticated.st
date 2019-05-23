@@ -2,4 +2,4 @@ tests-building
 testAuthenticationButtonColorIfAuthenticated
 
 	client authenticated: true.
-	self assert: Color clover equals: client getAuthenticationColor.
+	self assert: Color green equals: client getAuthenticationColor.

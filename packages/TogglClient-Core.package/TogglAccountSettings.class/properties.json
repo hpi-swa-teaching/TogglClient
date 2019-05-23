@@ -7,7 +7,9 @@
 	"commentStamp" : "<historical>",
 	"instvars" : [
 		"userName",
-		"userPassword" ],
+		"userPassword",
+		"togglClient",
+		"account" ],
 	"name" : "TogglAccountSettings",
 	"pools" : [
 		 ],

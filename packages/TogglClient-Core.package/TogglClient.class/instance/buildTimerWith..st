@@ -4,6 +4,8 @@ buildTimerWith: aBuilder
 	^ aBuilder pluggableTextSpec new
 		getText: #timerDuration;
 		model: self;
+		readOnly: true;
+		indicateUnacceptedChanges: false;
 		frame: (LayoutFrame new
 			leftFraction: 0.6 offset: 0;
 			topFraction: 0 offset: 0;

@@ -6,4 +6,5 @@ initialize
 	self timer: Stopwatch new.
 	self currentText: String empty.
 	self authenticated: false.
+	self account: TogglAccount new.
 
