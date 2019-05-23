@@ -12,7 +12,8 @@
 		"timer",
 		"timerDuration",
 		"startTime",
-		"authenticated" ],
+		"authenticated",
+		"account" ],
 	"name" : "TogglClient",
 	"pools" : [
 		 ],

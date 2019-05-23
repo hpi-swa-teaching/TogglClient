@@ -1,7 +1,7 @@
 as yet unclassified
 testAuthenticationFailsWithEmptyAccount
 
-	TogglAccount defaultName: ''.
-	TogglAccount defaultPassword: ''.
+	client account userName: ''.
+	client account userPassword: ''.
 	client startAuthentication.
 	self assert: false equals: client authenticated.

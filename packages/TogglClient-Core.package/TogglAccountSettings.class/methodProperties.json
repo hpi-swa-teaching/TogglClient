@@ -1,17 +1,25 @@
 {
 	"class" : {
 		"defaultTitle" : "lw 5/15/2019 19:39",
-		"open" : "fn 4/12/2017 09:18" },
+		"newWithToggl:" : "lw 5/23/2019 12:08",
+		"newWithToggl:andAccount:" : "lw 5/23/2019 12:18",
+		"open" : "fn 4/12/2017 09:18",
+		"openWith:" : "lw 5/23/2019 12:08",
+		"openWithToggl:andAccount:" : "lw 5/23/2019 12:21" },
 	"instance" : {
+		"account" : "lw 5/23/2019 12:22",
+		"account:" : "lw 5/23/2019 12:22",
 		"actionCancel" : "fn 4/12/2017 10:29",
-		"actionSaveAndClose" : "lw 5/16/2019 11:35",
-		"actionUserName" : "lw 5/15/2019 19:44",
+		"actionSaveAndClose" : "lw 5/23/2019 12:19",
+		"actionUserName" : "lw 5/23/2019 13:32",
 		"actionUserName:" : "fn 4/12/2017 10:34",
-		"actionUserPassword" : "lw 5/15/2019 19:44",
+		"actionUserPassword" : "lw 5/23/2019 13:32",
 		"actionUserPassword:" : "lw 5/15/2019 19:42",
 		"buildButtonsWith:" : "lw 5/16/2019 11:52",
 		"buildInputFieldsWith:" : "lw 5/16/2019 11:52",
 		"buildInputPanelWith:" : "lw 5/16/2019 11:52",
 		"buildWith:" : "lw 5/16/2019 11:52",
 		"close" : "fn 4/12/2017 10:02",
-		"labelString" : "fn 4/12/2017 09:18" } }
+		"labelString" : "fn 4/12/2017 09:18",
+		"togglClient" : "lw 5/23/2019 12:09",
+		"togglClient:" : "lw 5/23/2019 12:09" } }
