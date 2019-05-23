@@ -3,11 +3,11 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		"DefaultName",
-		"DefaultPassword" ],
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"userName",
+		"userPassword" ],
 	"name" : "TogglAccount",
 	"pools" : [
 		 ],

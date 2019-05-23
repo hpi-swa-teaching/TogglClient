@@ -14,8 +14,9 @@ buildButtonBarWith: builder
 	accountButton := builder pluggableActionButtonSpec new.
 	accountButton
 		model: self;
-		label: 'Account settings';
+		label: 'Login';
 		action: #actionAuthenticate;
+		color: #getAuthenticationColor;
 		help: 'Edit your Toggl account info.'.
 		
 	authenticateButton := builder pluggableActionButtonSpec new.
@@ -23,7 +24,6 @@ buildButtonBarWith: builder
 		model: self;
 		label: 'Authenticate';
 		action: #startAuthentication;
-		color: #getAuthenticationColor;
 		help: 'Authenticate yourself.'.
 
 	buttonBar children addAll: {
