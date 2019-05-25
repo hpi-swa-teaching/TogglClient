@@ -22,9 +22,9 @@ buildButtonBarWith: builder
 	authenticateButton := builder pluggableActionButtonSpec new.
 	authenticateButton
 		model: self;
-		label: 'Authenticate';
-		action: #startAuthentication;
-		help: 'Authenticate yourself.'.
+		label: 'Synchronize';
+		action: #actionSynchronize;
+		help: 'Pull from Server.'.
 
 	buttonBar children addAll: {
 		accountButton. builder pluggableSpacerSpec new. authenticateButton }.
