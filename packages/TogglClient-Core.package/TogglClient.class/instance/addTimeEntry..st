@@ -1,4 +1,4 @@
 actions
 addTimeEntry: aTimeEntry
-	self timeEntryList addFirst: aTimeEntry.
+	self timeEntryList add: aTimeEntry.
 	self changed: #timeEntryList.

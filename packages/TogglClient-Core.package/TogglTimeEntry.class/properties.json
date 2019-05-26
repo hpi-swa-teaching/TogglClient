@@ -7,9 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"description",
-		"startTime",
-		"stopTime",
-		"running" ],
+		"running",
+		"startDateAndTime",
+		"stopDateAndTime" ],
 	"name" : "TogglTimeEntry",
 	"pools" : [
 		 ],

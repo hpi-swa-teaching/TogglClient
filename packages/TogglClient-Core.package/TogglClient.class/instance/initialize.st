@@ -2,9 +2,11 @@ initialisation
 initialize
 	
 	super initialize.
-	self timeEntryList: OrderedCollection new.
-	self timer: Stopwatch new.
-	self currentText: String empty.
-	self authenticated: false.
-	self account: TogglAccount new.
-
+	self 
+		timer: Stopwatch new;
+		currentText: String empty;
+		authenticated: false;
+		account: TogglAccount new;
+		togglAPI: TogglAPI new;
+		timeEntryList: (SortedCollection sortBlock: [
+			:a :b | a startDateAndTime > b startDateAndTime]).

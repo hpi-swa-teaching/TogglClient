@@ -4,12 +4,12 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"instvars" : [
-		"userName",
-		"userPassword" ],
-	"name" : "TogglAccountSettings",
+		"url",
+		"webClient" ],
+	"name" : "TogglAPI",
 	"pools" : [
 		 ],
-	"super" : "Model",
+	"super" : "Object",
 	"type" : "normal" }

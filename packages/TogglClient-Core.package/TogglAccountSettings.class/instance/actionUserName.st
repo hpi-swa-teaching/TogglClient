@@ -1,3 +1,3 @@
 actions
 actionUserName
-	^ userName ifNil: [self account userName]
+	^ userName ifNil: [TogglAccount defaultName]
