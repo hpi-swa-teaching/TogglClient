@@ -2,7 +2,9 @@ actions
 stopTimerAndAddTimeEntry
 
 	self timer isActive ifTrue:[
-		self stopTimer.
-		self addCurrentTimeEntry]
+		self
+			stopTimer;
+			addCurrentTimeEntry;
+			currentText: String empty]
 
 	
