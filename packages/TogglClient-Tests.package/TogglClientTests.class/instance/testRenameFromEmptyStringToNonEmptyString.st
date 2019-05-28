@@ -1,4 +1,4 @@
-tests-building
+tests
 testRenameFromEmptyStringToNonEmptyString
 
 	client addTimeEntry: (TogglTimeEntry new renameTo: '').

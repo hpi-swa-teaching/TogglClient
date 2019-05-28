@@ -1,4 +1,4 @@
-tests-building
+tests
 testRenameToEmptyString
 
 	client addTimeEntry: (TogglTimeEntry new description: 'Test').

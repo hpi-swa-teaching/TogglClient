@@ -1,4 +1,4 @@
-tests-building
+tests
 testAuthenticationButtonColorIfNotAuthenticated
 
 	client authenticated: false.

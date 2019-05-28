@@ -1,4 +1,4 @@
-tests-building
+tests
 testCurrentTextResetOnStopButton
 	client startTimer.
 	client currentText: 'test'.
