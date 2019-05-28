@@ -7,7 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"url",
-		"webClient" ],
+		"webClient",
+		"authenticated" ],
 	"name" : "TogglAPI",
 	"pools" : [
 		 ],

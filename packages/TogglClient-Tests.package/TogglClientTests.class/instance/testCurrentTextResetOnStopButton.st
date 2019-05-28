@@ -1,0 +1,6 @@
+tests-building
+testCurrentTextResetOnStopButton
+	client startTimer.
+	client currentText: 'test'.
+	client stopTimerAndAddTimeEntry.
+	self assert: client currentText equals: String empty

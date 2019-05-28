@@ -3,5 +3,5 @@ testAuthenticationFailsWithEmptyAccount
 
 	TogglAccount defaultName: ''.
 	TogglAccount defaultPassword: ''.
-	client startAuthentication.
+	client togglAPI authenticate.
 	self assert: false equals: client authenticated.
