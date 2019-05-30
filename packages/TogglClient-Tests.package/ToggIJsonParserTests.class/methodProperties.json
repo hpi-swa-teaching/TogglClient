@@ -1,0 +1,6 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JZY 5/30/2019 17:33",
+		"testCreateTimeEntryFromJsonReturnsTimeEntry" : "JZY 5/30/2019 17:34" } }
