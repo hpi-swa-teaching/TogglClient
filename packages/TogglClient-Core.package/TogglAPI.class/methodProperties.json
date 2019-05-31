@@ -3,10 +3,8 @@
 		 },
 	"instance" : {
 		"authenticateWIthUsername:Password:" : "JZY 5/31/2019 15:29",
-		"getResponseFromEndpoint:" : "JZY 5/31/2019 14:42",
-		"getResponseFromEndpoint:WithUser:Password:" : "JZY 5/31/2019 16:05",
-		"initialize" : "JZY 5/23/2019 12:20",
+		"getResponseFromEndpoint:" : "lw 5/31/2019 19:34",
+		"getResponseFromEndpoint:WithUser:Password:" : "lw 5/31/2019 19:31",
+		"initialize" : "lw 5/31/2019 19:34",
 		"url" : "JZY 5/23/2019 12:13",
-		"url:" : "JZY 5/23/2019 12:13",
-		"webClient" : "JZY 5/23/2019 12:16",
-		"webClient:" : "JZY 5/23/2019 12:16" } }
+		"url:" : "JZY 5/23/2019 12:13" } }
