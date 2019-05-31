@@ -3,10 +3,11 @@
 		 },
 	"instance" : {
 		"authenticate" : "JZY 5/27/2019 17:17",
-		"authenticateWIthUser:Password:" : "JZY 5/26/2019 17:02",
+		"authenticateWIthUser:Password:" : "JZY 5/30/2019 18:13",
 		"authenticated" : "JZY 5/27/2019 17:17",
 		"authenticated:" : "JZY 5/27/2019 17:17",
-		"getResponseFromEndpoint:" : "JZY 5/23/2019 12:19",
+		"getResponseFromEndpoint:" : "JZY 5/31/2019 14:42",
+		"getResponseFromEndpoint:WithUser:Password:" : "JZY 5/30/2019 18:12",
 		"initialize" : "JZY 5/23/2019 12:20",
 		"url" : "JZY 5/23/2019 12:13",
 		"url:" : "JZY 5/23/2019 12:13",
