@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "JB 5/31/2019 19:58",
+		"testEqualsAnotherTimeEntry" : "JB 5/31/2019 19:54",
+		"testGreaterThanOtherTimeEntry" : "JB 5/31/2019 19:59",
+		"testSmallerThanOrEqualOtherTimeEntry" : "JB 5/31/2019 20:00",
+		"testSmallerThanOtherTimeEntry" : "JB 5/31/2019 19:59" } }
