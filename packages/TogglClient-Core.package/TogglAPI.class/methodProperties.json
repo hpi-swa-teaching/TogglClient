@@ -2,10 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"authenticate" : "JZY 5/27/2019 17:17",
 		"authenticateWIthUsername:Password:" : "JZY 5/31/2019 15:29",
 		"getResponseFromEndpoint:" : "JZY 5/31/2019 14:42",
-		"getResponseFromEndpoint:WithUser:Password:" : "JZY 5/30/2019 18:12",
+		"getResponseFromEndpoint:WithUser:Password:" : "JZY 5/31/2019 16:05",
 		"initialize" : "JZY 5/23/2019 12:20",
 		"url" : "JZY 5/23/2019 12:13",
 		"url:" : "JZY 5/23/2019 12:13",
