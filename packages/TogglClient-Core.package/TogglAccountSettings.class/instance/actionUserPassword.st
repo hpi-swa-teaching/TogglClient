@@ -1,3 +1,3 @@
 actions
 actionUserPassword
-	^ userPassword ifNil: [TogglAccount defaultPassword]
+	^ userPassword ifNil: [self account userPassword]
