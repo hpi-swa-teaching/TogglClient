@@ -1,4 +1,4 @@
-as yet unclassified
+parsing
 createTimeEntryFromJson: json
 	| timeEntry |
 	timeEntry := TogglTimeEntry new

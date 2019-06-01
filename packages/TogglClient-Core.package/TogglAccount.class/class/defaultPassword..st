@@ -1,4 +1,4 @@
-as yet unclassified
+accessing
 defaultPassword: aString
 
 	DefaultPassword := aString

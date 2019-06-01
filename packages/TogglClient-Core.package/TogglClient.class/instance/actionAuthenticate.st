@@ -1,3 +1,3 @@
-as yet unclassified
+actions
 actionAuthenticate
 	TogglAccountSettings openWithToggl: self andAccount: self account.

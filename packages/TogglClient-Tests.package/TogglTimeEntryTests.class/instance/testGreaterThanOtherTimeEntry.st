@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testGreaterThanOtherTimeEntry
 
 	self assert: false equals: testTimeEntry > anotherTimeEntry.

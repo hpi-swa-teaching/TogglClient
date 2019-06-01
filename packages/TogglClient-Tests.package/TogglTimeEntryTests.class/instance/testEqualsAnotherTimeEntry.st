@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testEqualsAnotherTimeEntry
 
 	self assert: false equals: testTimeEntry = anotherTimeEntry.

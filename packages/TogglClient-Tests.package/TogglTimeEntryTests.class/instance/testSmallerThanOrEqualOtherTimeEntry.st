@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 testSmallerThanOrEqualOtherTimeEntry
 
 	self assert: true equals: testTimeEntry <= anotherTimeEntry.
