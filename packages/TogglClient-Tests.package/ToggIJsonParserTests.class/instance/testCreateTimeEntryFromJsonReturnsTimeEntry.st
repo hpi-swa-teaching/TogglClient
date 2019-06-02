@@ -3,6 +3,6 @@ testCreateTimeEntryFromJsonReturnsTimeEntry
 	| timeEntry |
 	
 	timeEntry := TogglJsonParser createTimeEntryFromJson: (Json readFrom: testjson readStream).
-	self assert: TogglTimeEntry equals: timeEntry class.
-	self assert: timeEntry id equals: 1234.
-	self assert: timeEntry description equals: 'meeting'.
+	self assert: timeEntry class equals: TogglTimeEntry.
+	self assert: 1234 equals: timeEntry id.
+	self assert: 'meeting' equals: timeEntry description.
