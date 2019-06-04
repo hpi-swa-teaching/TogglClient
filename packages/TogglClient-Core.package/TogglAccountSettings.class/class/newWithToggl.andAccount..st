@@ -1,4 +1,4 @@
-as yet unclassified
+instance creation
 newWithToggl: aTogglClient andAccount: aTogglAccount
 	
 	^ self new 

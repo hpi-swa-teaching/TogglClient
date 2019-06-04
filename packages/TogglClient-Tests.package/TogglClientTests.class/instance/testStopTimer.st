@@ -1,4 +1,4 @@
-tests-building
+tests
 testStopTimer
 
 	client startTimer.

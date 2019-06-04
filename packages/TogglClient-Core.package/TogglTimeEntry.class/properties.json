@@ -1,0 +1,18 @@
+{
+	"category" : "TogglClient-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id",
+		"description",
+		"running",
+		"startDateAndTime",
+		"stopDateAndTime" ],
+	"name" : "TogglTimeEntry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

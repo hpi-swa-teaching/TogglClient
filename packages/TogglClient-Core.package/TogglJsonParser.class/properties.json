@@ -1,0 +1,15 @@
+{
+	"category" : "TogglClient-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"url",
+		"webClient" ],
+	"name" : "TogglJsonParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

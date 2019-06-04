@@ -6,14 +6,15 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"taskList",
+		"togglAPI",
+		"timeEntryList",
 		"currentSelection",
 		"currentText",
 		"timer",
 		"timerDuration",
-		"startTime",
 		"authenticated",
-		"account" ],
+		"account",
+		"startDateAndTime" ],
 	"name" : "TogglClient",
 	"pools" : [
 		 ],

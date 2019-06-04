@@ -1,0 +1,16 @@
+{
+	"category" : "TogglClient-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"testTimeEntry",
+		"testJson",
+		"noDescriptionJson" ],
+	"name" : "ToggIJsonParserTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

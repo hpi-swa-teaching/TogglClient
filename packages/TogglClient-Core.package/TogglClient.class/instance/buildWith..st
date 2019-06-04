@@ -7,7 +7,7 @@ buildWith: aBuilder
 		extent: 500@400;
 		children: {
 			self buildPanelWith: aBuilder.
-			self buildTaskListWith: aBuilder.
+			self buildTimeEntryListWith: aBuilder.
 			self buildInputFieldWith: aBuilder.
 			self buildTimerWith: aBuilder.
 			self buildStartButtonWith: aBuilder.

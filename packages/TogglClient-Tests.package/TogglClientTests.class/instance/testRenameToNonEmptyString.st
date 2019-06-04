@@ -1,6 +1,6 @@
-tests-building
+tests
 testRenameToNonEmptyString
 
-	client addTask: (Task new description: 'Test').
-	client taskList first renameTo: 'Toggl'.
-	self assert: 'Toggl' equals: client taskList first description.
+	client addTimeEntry: (TogglTimeEntry new description: 'Test').
+	client timeEntryList first renameTo: 'Toggl'.
+	self assert: 'Toggl' equals: client timeEntryList first description.

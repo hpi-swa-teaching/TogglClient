@@ -2,9 +2,9 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "THH 5/16/2019 12:12",
-		"testAddCurrentTaskWithDescription" : "THH 5/18/2019 22:59",
-		"testAddCurrentTaskWithoutDescription" : "THH 5/18/2019 23:00",
-		"testAddMultipleTasksWithDifferentDescriptions" : "THH 5/18/2019 21:09",
-		"testAddTask" : "THH 5/9/2019 20:44",
+		"setUp" : "JZY 5/23/2019 15:23",
+		"testAddCurrentTimeEntryWithDescription" : "JZY 5/23/2019 15:13",
+		"testAddCurrentTimeEntryWithoutDescription" : "JZY 5/23/2019 15:14",
+		"testAddMultipleTimeEntriesWithDifferentDescriptions" : "JZY 5/23/2019 15:17",
+		"testAddTimeEntry" : "JZY 5/23/2019 15:25",
 		"testDisplayRenameChanges" : "THH 5/21/2019 23:26" } }

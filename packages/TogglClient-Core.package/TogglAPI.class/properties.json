@@ -1,0 +1,14 @@
+{
+	"category" : "TogglClient-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"url" ],
+	"name" : "TogglAPI",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
