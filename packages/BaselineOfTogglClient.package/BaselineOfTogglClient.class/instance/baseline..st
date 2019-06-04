@@ -7,6 +7,10 @@ baseline: spec
 			spec
 				package: 'TogglClient-Core';
 				package: 'TogglClient-Tests' with: [spec requires: #('TogglClient-Core')];
+				package: 'JSON' with: 
+					[ spec
+     					file: 'JSON-ul.35';	
+       					repository: 'http://www.squeaksource.com/JSON' ];
 				yourself.
 			spec
 				group: 'default' with: #('TogglClient-Core');
