@@ -8,11 +8,8 @@ SmalltalkCISpec {
     }
   ],
   #testing : {
-    #failOnZeroTests : true,
-    #hidePassingTests : true,
-    #defaultTimeout : 30,
-    #coverage : [
+    #coverage : {
       #categories : [ 'TogglClient-Core' ]
-    ]
+    }
   }
 }
