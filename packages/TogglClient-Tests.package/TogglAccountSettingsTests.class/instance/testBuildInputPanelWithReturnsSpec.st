@@ -2,5 +2,5 @@ tests-building
 testBuildInputPanelWithReturnsSpec
 
 	| spec |
-	spec := client buildInputPanelWith: toolbuilder.
+	spec := accountSettings buildInputPanelWith: toolbuilder.
 	self assert: (spec isKindOf: ToolBuilderSpec)
