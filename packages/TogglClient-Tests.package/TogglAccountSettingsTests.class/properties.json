@@ -6,8 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"client",
-		"toolbuilder" ],
+		"toolbuilder",
+		"accountSettings",
+		"account",
+		"client" ],
 	"name" : "TogglAccountSettingsTests",
 	"pools" : [
 		 ],
