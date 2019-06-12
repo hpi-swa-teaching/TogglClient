@@ -4,6 +4,5 @@
 	"instance" : {
 		"setUp" : "JB 6/6/2019 16:18",
 		"testActionSaveAndClose" : "JB 6/6/2019 16:16",
-		"testBuildAccountSettingsWithReturnSpecs" : "JB 6/6/2019 15:56",
 		"testBuildButtonsWithReturnsSpec" : "JB 6/6/2019 15:49",
 		"testBuildInputPanelWithReturnsSpec" : "JB 6/6/2019 15:40" } }
