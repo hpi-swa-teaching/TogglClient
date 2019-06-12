@@ -1,4 +1,4 @@
-# TogglClient [![Build Status][travis_badge]][travis_url] [![Coverage Status](coveralls_badge)](coveralls_url)
+# TogglClient [![Build Status][travis_badge]][travis_url] [![Coverage Status](coveralls_badge)][coveralls_url]
 SWT19 - Group 16
 
 
