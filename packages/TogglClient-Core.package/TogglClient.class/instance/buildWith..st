@@ -10,7 +10,6 @@ buildWith: aBuilder
 			self buildTimeEntryListWith: aBuilder.
 			self buildInputFieldWith: aBuilder.
 			self buildTimerWith: aBuilder.
-			self buildStartButtonWith: aBuilder.
-			self buildStopButtonWith: aBuilder.
+			self buildStartStopButtonWith: aBuilder.
 			self buildButtonBarWith: aBuilder }
 		yourself)
