@@ -1,6 +1,7 @@
 {
 	"class" : {
-		"createTimeEntryFromJson:" : "THH 6/2/2019 19:07",
+		"createJsonFromTimeEntry:" : "JZY 6/17/2019 18:57",
+		"createTimeEntryFromJson:" : "JZY 6/17/2019 18:36",
 		"jsonFromResponse:" : "JZY 5/26/2019 19:43" },
 	"instance" : {
 		 } }

@@ -1,0 +1,3 @@
+accessing
+defaultWid
+	^ defaultWid
