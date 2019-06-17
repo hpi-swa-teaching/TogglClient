@@ -1,6 +1,6 @@
 requests
-authenticateWithUsername: aUsername Password: aPassword
+authenticateWIthUsername: aUsername Password: aPassword
 
 	| response |
 	response := self getResponseFromEndpoint: 'me' WithUser: aUsername Password: aPassword.
-	^ response
+	^ response code = 200

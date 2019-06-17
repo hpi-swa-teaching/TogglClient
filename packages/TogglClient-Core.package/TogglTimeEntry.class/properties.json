@@ -10,9 +10,7 @@
 		"description",
 		"running",
 		"startDateAndTime",
-		"stopDateAndTime",
-		"isSynchronized",
-		"wid" ],
+		"stopDateAndTime" ],
 	"name" : "TogglTimeEntry",
 	"pools" : [
 		 ],
