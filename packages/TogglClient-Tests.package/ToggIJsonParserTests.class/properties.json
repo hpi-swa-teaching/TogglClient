@@ -8,7 +8,8 @@
 	"instvars" : [
 		"testTimeEntry",
 		"testJson",
-		"noDescriptionJson" ],
+		"noDescriptionJson",
+		"specialCharacterJson" ],
 	"name" : "ToggIJsonParserTests",
 	"pools" : [
 		 ],

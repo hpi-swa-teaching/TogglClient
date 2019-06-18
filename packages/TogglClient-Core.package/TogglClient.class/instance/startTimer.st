@@ -1,8 +1,8 @@
 actions
 startTimer 
 
-	self timer isActive ifFalse: [
+	self timerIsRunning ifFalse: [
 		self timer activate.
-		self startDateAndTime: DateAndTime now.
+		self startDateAndTime: DateAndTime now
 	]
 	
