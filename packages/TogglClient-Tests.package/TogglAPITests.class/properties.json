@@ -7,8 +7,9 @@
 	"commentStamp" : "",
 	"instvars" : [
 		"client",
-		"toolbuilder" ],
-	"name" : "TogglAccountAuthenticationTests",
+		"toolbuilder",
+		"testTimeEntry" ],
+	"name" : "TogglAPITests",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

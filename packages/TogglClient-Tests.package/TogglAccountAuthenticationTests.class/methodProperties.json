@@ -1,6 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "lw 5/18/2019 23:16",
-		"testAuthenticationFailsWithEmptyAccount" : "lw 5/23/2019 13:36" } }

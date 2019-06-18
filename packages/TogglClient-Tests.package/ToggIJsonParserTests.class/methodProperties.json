@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "THH 6/4/2019 11:01",
+		"setUp" : "JZY 6/18/2019 20:18",
+		"testCreateJsonFromTimeEntry" : "JZY 6/18/2019 20:18",
 		"testCreateTimeEntryFromJsonReturnsTimeEntry" : "THH 6/4/2019 10:49",
 		"testCreateTimeEntryFromJsonReturnsTimeEntryWithoutDescription" : "THH 6/2/2019 19:05" } }
