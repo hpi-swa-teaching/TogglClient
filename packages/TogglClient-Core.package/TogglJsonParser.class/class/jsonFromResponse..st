@@ -1,3 +1,3 @@
 parsing
 jsonFromResponse: aResponse
-	^ Json readFrom: aResponse content utf8ToSqueak readStream
+	^ Json readFrom: aResponse content readStream
