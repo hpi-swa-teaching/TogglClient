@@ -2,8 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"authenticateWIthUsername:Password:" : "JZY 5/31/2019 15:29",
+		"authenticateWithUsername:Password:" : "JZY 6/17/2019 18:02",
 		"getResponseFromEndpoint:WithUser:Password:" : "THH 5/31/2019 19:30",
-		"initialize" : "lw 5/31/2019 19:34",
+		"getTimeEntriesWithUser:Password:" : "JZY 6/17/2019 17:20",
+		"initialize" : "JZY 6/17/2019 17:18",
+		"pushTimeEntry:WithUser:Password:" : "JZY 6/17/2019 19:04",
+		"timeEntryEndpoint" : "JZY 6/17/2019 17:18",
+		"timeEntryEndpoint:" : "JZY 6/17/2019 17:18",
 		"url" : "JZY 5/23/2019 12:13",
 		"url:" : "JZY 5/23/2019 12:13" } }
