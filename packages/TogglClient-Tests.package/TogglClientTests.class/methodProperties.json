@@ -19,9 +19,11 @@
 		"testRenameFromEmptyStringToNonEmptyString" : "JZY 5/23/2019 15:19",
 		"testRenameToEmptyString" : "JZY 5/23/2019 15:20",
 		"testRenameToNonEmptyString" : "JZY 5/23/2019 15:20",
+		"testRestartTimeEntryWhenTimerIsRunning" : "THH 6/20/2019 11:20",
+		"testRestartTimeEntryWhenTimerNotRunning" : "THH 6/20/2019 11:21",
 		"testStartTimer" : "lw 5/18/2019 23:09",
 		"testStopTimer" : "lw 5/18/2019 23:10",
-		"testTimeEntryListMenu" : "JZY 5/30/2019 18:03",
+		"testTimeEntryListMenu" : "THH 6/20/2019 10:47",
 		"testTimerDurationAs24hour" : "JB 6/6/2019 14:12",
 		"testTimerIsRunning" : "THH 6/14/2019 21:51",
 		"testWorldMenuRegistration" : "THH 6/2/2019 21:09" } }
