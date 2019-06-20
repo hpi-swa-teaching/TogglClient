@@ -14,10 +14,10 @@ buildButtonBarWith: builder
 	accountButton := builder pluggableActionButtonSpec new.
 	accountButton
 		model: self;
-		label: 'Login';
+		label: #loginLogoutButtonLabel;
 		action: #actionAuthenticate;
-		color: #getAuthenticationColor;
-		help: 'Edit your Toggl account info.'.
+		changeLabelWhen: #authenticated;
+		help: 'Login/logout from your Toggl account'.
 		
 	authenticateButton := builder pluggableActionButtonSpec new.
 	authenticateButton
