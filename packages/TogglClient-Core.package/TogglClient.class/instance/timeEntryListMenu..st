@@ -2,6 +2,7 @@ toolbuilder
 timeEntryListMenu: aMenu
 
 	aMenu addList: #(
-	('rename'	#renameTimeEntry)).
+	('rename'	#renameTimeEntry)
+	('restart' #restartTimeEntry) ).
 	^ aMenu
 	
