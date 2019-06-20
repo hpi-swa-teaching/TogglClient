@@ -1,3 +1,5 @@
 actions
 actionAuthenticate
-	TogglAccountSettings openWithToggl: self andAccount: self account.
+	self authenticated
+		ifTrue: []
+		ifFalse: [TogglAccountSettings openWithToggl: self andAccount: self account]
