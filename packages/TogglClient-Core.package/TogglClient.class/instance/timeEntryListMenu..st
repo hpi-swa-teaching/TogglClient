@@ -2,6 +2,7 @@ toolbuilder
 timeEntryListMenu: aMenu
 
 	aMenu addList: #(
-	('rename'	#renameTimeEntry)).
+	('rename'	#renameTimeEntry)
+	('change default user' #setDefaultUserAndPassword)).
 	^ aMenu
 	
