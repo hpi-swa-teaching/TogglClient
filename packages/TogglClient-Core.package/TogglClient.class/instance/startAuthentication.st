@@ -7,6 +7,7 @@ startAuthentication
 		| json |
 		json := TogglJsonParser jsonFromResponse: response.
 		self account defaultWid: ((json at: 'data') at: 'default_wid')].
+	self changed: #authenticated
 
 	
 	
