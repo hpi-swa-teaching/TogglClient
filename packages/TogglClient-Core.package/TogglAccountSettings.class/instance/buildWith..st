@@ -1,5 +1,6 @@
 toolbuilder
 buildWith: builder
+
 	^ builder build: (builder pluggableDialogSpec new
 		model: self;
 		label: #labelString;

@@ -1,5 +1,6 @@
 toolbuilder
 buildInputPanelWith: builder
+
 	^ builder pluggablePanelSpec new
 		model: self;
 		layout: #vertical;
