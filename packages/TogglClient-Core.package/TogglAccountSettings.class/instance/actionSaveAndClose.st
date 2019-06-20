@@ -1,7 +1,7 @@
 actions
 actionSaveAndClose
 
-	userName ifNotNil: [self account userName: userName].
-	userPassword ifNotNil: [self account userPassword: userPassword].
+	self userName ifNotNil: [self account userName: self userName].
+	self userPassword ifNotNil: [self account userPassword: self userPassword].
 	togglClient startAuthentication.
 	self changed: #close.
