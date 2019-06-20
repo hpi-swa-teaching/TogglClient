@@ -4,4 +4,7 @@ renameTimeEntry
 		(UIManager default
 			request: 'Enter new description'
 			initialAnswer: self currentSelection description).
-	self changed: #timeEntryList.
+	self togglAPI 
+		updateTimeEntry: (self currentSelection)
+			WithUser: self account userName Password: self account userPassword.
+	self changed: #timeEntryList
