@@ -1,10 +1,14 @@
 actions
 setDefaultUserAndPassword
+	
+	| initialName initialPassword |
+	initialName := TogglAccount defaultName ifNil: [''].
+	initialPassword := TogglAccount defaultPassword ifNil: [''].
 	TogglAccount defaultName: 
 		(UIManager default
 			request: 'Enter new user name'
-			initialAnswer: TogglAccount defaultName).
+			initialAnswer: initialName).
 	TogglAccount defaultPassword: 
 		(UIManager default
 			request: 'Enter password'
-			initialAnswer: TogglAccount defaultPassword)
+			initialAnswer: initialPassword)
