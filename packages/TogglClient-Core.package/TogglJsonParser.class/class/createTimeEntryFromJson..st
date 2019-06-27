@@ -1,5 +1,6 @@
 parsing
 createTimeEntryFromJson: json
+
 	| timeEntry |
 	timeEntry := TogglTimeEntry new
 		isSynchronized: true;

@@ -1,5 +1,6 @@
 requests
 updateTimeEntry: aTimeEntry WithUser: aUser Password: aPassword
+
 	| json |
 	json := TogglJsonParser createJsonFromTimeEntry: aTimeEntry.
 	^ WebClient new 

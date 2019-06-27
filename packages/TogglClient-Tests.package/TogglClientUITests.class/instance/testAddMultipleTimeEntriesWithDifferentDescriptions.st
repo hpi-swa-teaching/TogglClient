@@ -2,7 +2,6 @@ running
 testAddMultipleTimeEntriesWithDifferentDescriptions
 
 	| text |
-	
 	text := Text fromString: 'test1'.
 	togglClient currentText: text.
 	togglClient startTimer.

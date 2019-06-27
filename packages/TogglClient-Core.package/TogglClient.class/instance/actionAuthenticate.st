@@ -1,5 +1,6 @@
 actions
 actionAuthenticate
+
 	self authenticated
 		ifTrue: [
 			self togglAPI logout.

@@ -1,3 +1,4 @@
 defaults
 defaultTitle
+
 	^ 'Toggl Account'

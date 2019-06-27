@@ -1,5 +1,6 @@
 actions
 addCurrentTimeEntry
+
 	| timeEntry |
 	timeEntry := TogglTimeEntry new.
 	timeEntry

@@ -1,7 +1,7 @@
 converting
 printOn: aStream
-	aStream nextPutAll: self description; tab.
-	
+
+	aStream nextPutAll: self description; tab.	
 	self stopDateAndTime ifNil: [
 		aStream
 			tab;

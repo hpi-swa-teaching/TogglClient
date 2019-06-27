@@ -1,5 +1,6 @@
 parsing
 createJsonFromTimeEntry: aTimeEntry
+
 	|result|
 	result := '{"time_entry":{"description":"', aTimeEntry description squeakToUtf8,
 	'","duration":', aTimeEntry duration,
