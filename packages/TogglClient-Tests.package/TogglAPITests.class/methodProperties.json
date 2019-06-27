@@ -3,7 +3,7 @@
 		 },
 	"instance" : {
 		"setUp" : "MR 6/27/2019 09:54",
-		"testAuthenticationFailsWithEmptyAccount" : "lw 5/23/2019 13:36",
-		"testAuthenticationSuccedsWithRealAccount" : "JZY 6/18/2019 20:35",
-		"testGetTimeEntriesResponse" : "MR 6/27/2019 09:54",
+		"testAuthenticationFailsWithEmptyAccount" : "MR 6/27/2019 10:06",
+		"testAuthenticationSuccedsWithRealAccount" : "MR 6/27/2019 10:06",
+		"testGetTimeEntriesResponse" : "MR 6/27/2019 10:06",
 		"testPushTimeEntry" : "MR 6/27/2019 09:54" } }

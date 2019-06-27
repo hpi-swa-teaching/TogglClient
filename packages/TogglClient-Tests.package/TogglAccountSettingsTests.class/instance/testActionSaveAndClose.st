@@ -8,4 +8,4 @@ testActionSaveAndClose
 	accountSettings actionUserPassword: pw.
 	accountSettings actionSaveAndClose.
 	self assert: user equals: account userName.
-	self assert: pw equals: account userPassword.
+	self assert: pw equals: account userPassword

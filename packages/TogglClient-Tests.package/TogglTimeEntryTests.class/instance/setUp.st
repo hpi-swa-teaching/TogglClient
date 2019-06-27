@@ -12,4 +12,4 @@ setUp
 		id: 2;
 		description: 'me too';
 		startDateAndTime: (DateAndTime fromString: '2019-01-01 14:42:00');
-		yourself.
+		yourself

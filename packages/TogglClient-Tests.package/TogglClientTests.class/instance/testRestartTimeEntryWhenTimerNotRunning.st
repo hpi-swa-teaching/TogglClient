@@ -7,7 +7,7 @@ testRestartTimeEntryWhenTimerNotRunning
 	
 	self assert: 'Test' equals: client currentText.
 	self assert: true equals: client timerIsRunning.
-	self assert: 'Stop' equals: client startStopTimerLabel.
+	self assert: 'Stop' equals: client startStopTimerLabel
 
 	
 	

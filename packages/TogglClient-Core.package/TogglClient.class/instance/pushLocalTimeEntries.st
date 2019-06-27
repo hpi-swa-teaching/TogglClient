@@ -6,4 +6,4 @@ pushLocalTimeEntries
 	localTimeEntries do: [ :localTimeEntry |
 		self togglAPI pushTimeEntry: localTimeEntry
 			WithUser: self account userName Password: self account userPassword.
-		localTimeEntry isSynchronized: true].
+		localTimeEntry isSynchronized: true]

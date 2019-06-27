@@ -3,15 +3,15 @@
 		 },
 	"instance" : {
 		"authenticateWithUsername:Password:" : "JZY 6/17/2019 18:02",
-		"getResponseFromEndpoint:WithUser:Password:" : "MR 6/27/2019 09:45",
+		"getResponseFromEndpoint:WithUser:Password:" : "MR 6/27/2019 09:59",
 		"getTimeEntriesWithUser:Password:" : "MR 6/27/2019 09:45",
 		"initialize" : "MR 6/27/2019 09:45",
 		"logout" : "JZY 6/20/2019 14:07",
-		"pushTimeEntry:WithUser:Password:" : "MR 6/27/2019 09:45",
+		"pushTimeEntry:WithUser:Password:" : "MR 6/27/2019 10:00",
 		"sessionsEndpoint" : "MR 6/27/2019 09:45",
 		"sessionsEndpoint:" : "MR 6/27/2019 09:45",
 		"timeEntryEndpoint" : "MR 6/27/2019 09:45",
 		"timeEntryEndpoint:" : "MR 6/27/2019 09:45",
-		"updateTimeEntry:WithUser:Password:" : "MR 6/27/2019 09:46",
+		"updateTimeEntry:WithUser:Password:" : "MR 6/27/2019 10:00",
 		"url" : "MR 6/27/2019 09:46",
 		"url:" : "MR 6/27/2019 09:46" } }

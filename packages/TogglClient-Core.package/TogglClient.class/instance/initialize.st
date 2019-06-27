@@ -9,4 +9,4 @@ initialize
 		account: TogglAccount new;
 		togglAPI: TogglAPI new;
 		timeEntryList: (SortedCollection sortBlock: [
-			:a :b | a startDateAndTime > b startDateAndTime]).
+			:a :b | a startDateAndTime > b startDateAndTime])

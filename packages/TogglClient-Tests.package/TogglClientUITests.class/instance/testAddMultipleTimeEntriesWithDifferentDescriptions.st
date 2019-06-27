@@ -12,6 +12,5 @@ testAddMultipleTimeEntriesWithDifferentDescriptions
 	togglClient startTimer.
 	togglClient stopTimerAndAddTimeEntry.
 
-
 	self assert: 'test2' equals: togglClient timeEntryList first description.
 	self assert: 'test1' equals: togglClient timeEntryList second description

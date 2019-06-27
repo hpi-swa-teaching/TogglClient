@@ -15,5 +15,5 @@ printOn: aStream
 				nextPutAll: self startDateAndTime asDate asString; tab;
 				nextPutAll: self startDateAndTime asTime print24; tab;
 				nextPutAll: self stopDateAndTime asDate asString; tab;
-				nextPutAll: self stopDateAndTime asTime print24.].
+				nextPutAll: self stopDateAndTime asTime print24]
 		

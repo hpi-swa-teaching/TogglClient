@@ -8,4 +8,4 @@ testPushLocalTimeEntriesSychronizesLocalTimeEntries
 	client addCurrentTimeEntry.
 	self assert: (client timeEntryList first isSynchronized not).
 	client actionSynchronize.
-	self assert: (client timeEntryList first isSynchronized).
+	self assert: (client timeEntryList first isSynchronized)
