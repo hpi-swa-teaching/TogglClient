@@ -13,5 +13,5 @@ buildInputFieldsWith: builder
 		getText: #actionUserPassword;
 		editText: #actionUserPassword:;
 		setText: #actionUserPassword:;
-		help: 'Toggl password'.
+		help: 'Toggl password'
 	}
