@@ -1,5 +1,6 @@
 parsing
 createTimeEntryFromJson: json
+
 	| timeEntry |
 	timeEntry := TogglTimeEntry new
 		isSynchronized: true;
@@ -13,7 +14,6 @@ createTimeEntryFromJson: json
 		timeEntry stopDateAndTime: (DateAndTime fromString: (json at: 'stop')) asLocal].
 	(json at: 'wid') ifNotNil: [
 		timeEntry wid: (json at: 'wid')].
-	
-	^ timeEntry.
+	^ timeEntry
 
 	

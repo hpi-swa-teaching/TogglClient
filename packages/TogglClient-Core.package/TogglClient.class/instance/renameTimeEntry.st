@@ -1,5 +1,6 @@
 actions
 renameTimeEntry
+
 	self currentSelection renameTo: 
 		(UIManager default
 			request: 'Enter new description'

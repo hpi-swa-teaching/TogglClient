@@ -1,5 +1,6 @@
 running
 setUp
+
 	client := TogglClient new.
 	testTimeEntry := TogglTimeEntry new
 		id: 1;

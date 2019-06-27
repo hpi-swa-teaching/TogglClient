@@ -2,9 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "JZY 5/23/2019 15:23",
-		"testAddCurrentTimeEntryWithDescription" : "JZY 5/23/2019 15:13",
-		"testAddCurrentTimeEntryWithoutDescription" : "JZY 5/23/2019 15:14",
-		"testAddMultipleTimeEntriesWithDifferentDescriptions" : "JZY 5/23/2019 15:17",
-		"testAddTimeEntry" : "JZY 5/23/2019 15:25",
-		"testDisplayRenameChanges" : "THH 5/21/2019 23:26" } }
+		"setUp" : "MR 6/27/2019 10:08",
+		"testAddCurrentTimeEntryWithDescription" : "MR 6/27/2019 10:08",
+		"testAddCurrentTimeEntryWithoutDescription" : "MR 6/27/2019 10:08",
+		"testAddMultipleTimeEntriesWithDifferentDescriptions" : "MR 6/27/2019 10:08",
+		"testAddTimeEntry" : "JZY 5/23/2019 15:25" } }

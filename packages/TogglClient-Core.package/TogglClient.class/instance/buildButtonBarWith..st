@@ -1,5 +1,6 @@
 toolbuilder
 buildButtonBarWith: builder
+
 	| buttonBar accountButton authenticateButton |
 	buttonBar := builder pluggablePanelSpec new
 		layout: #horizontal;

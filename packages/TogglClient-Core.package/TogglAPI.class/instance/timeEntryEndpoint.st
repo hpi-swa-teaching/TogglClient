@@ -1,3 +1,4 @@
 accessing
 timeEntryEndpoint
+
 	^ timeEntryEndpoint
