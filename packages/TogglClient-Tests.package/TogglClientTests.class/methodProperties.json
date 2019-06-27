@@ -15,7 +15,7 @@
 		"testBuildTaskListWithReturnsSpec" : "JZY 5/23/2019 15:05",
 		"testBuildTimerWithReturnsSpec" : "JZY 5/14/2019 11:33",
 		"testCurrentTextResetOnStopTimer" : "MR 6/27/2019 09:54",
-		"testPushLocalTimeEntriesSychronizesLocalTimeEntries" : "MR 6/27/2019 10:07",
+		"testPushLocalTimeEntriesSychronizesLocalTimeEntries" : "MR 6/27/2019 10:24",
 		"testRenameFromEmptyStringToNonEmptyString" : "MR 6/27/2019 10:07",
 		"testRenameToEmptyString" : "MR 6/27/2019 10:07",
 		"testRenameToNonEmptyString" : "MR 6/27/2019 10:07",

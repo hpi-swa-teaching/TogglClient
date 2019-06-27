@@ -1,7 +1,7 @@
 actions
 pullTimeEntries
 
-	| response json|	
+	| response json |	
 	response := self togglAPI getTimeEntriesWithUser: self account userName Password: self account userPassword.
 	json := TogglJsonParser jsonFromResponse: response.
 	self timeEntryList removeAll.
