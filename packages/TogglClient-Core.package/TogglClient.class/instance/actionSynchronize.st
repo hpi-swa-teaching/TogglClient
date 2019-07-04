@@ -1,5 +1,6 @@
 actions
 actionSynchronize
 
-	self pushLocalTimeEntries.
-	self pullTimeEntries
+	self authenticated ifTrue: [
+		self pushLocalTimeEntries.
+		self pullTimeEntries]
