@@ -5,8 +5,8 @@
 	"instance" : {
 		"account" : "lw 5/23/2019 11:56",
 		"account:" : "lw 5/23/2019 11:56",
-		"actionAuthenticate" : "MR 6/27/2019 09:47",
-		"actionSynchronize" : "MR 6/27/2019 09:47",
+		"actionAuthenticate" : "JZY 7/4/2019 10:25",
+		"actionSynchronize" : "JZY 7/4/2019 11:39",
 		"actionToggleStartStop" : "THH 6/17/2019 15:39",
 		"addCurrentTimeEntry" : "MR 6/27/2019 10:02",
 		"addTimeEntry:" : "MR 6/27/2019 10:02",
@@ -23,7 +23,6 @@
 		"currentSelection:" : "MR 6/27/2019 09:47",
 		"currentText" : "MR 6/27/2019 09:48",
 		"currentText:" : "MR 6/27/2019 09:48",
-		"getAuthenticationColor" : "MR 6/27/2019 10:37",
 		"initialize" : "MR 6/27/2019 10:02",
 		"loginLogoutButtonLabel" : "JB 6/20/2019 13:48",
 		"pullTimeEntries" : "MR 6/27/2019 10:23",
