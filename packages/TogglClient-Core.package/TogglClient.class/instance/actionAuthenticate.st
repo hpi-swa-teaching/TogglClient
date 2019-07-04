@@ -9,4 +9,5 @@ actionAuthenticate
 				authenticated: false;
 				changed: #timeEntryList;
 				changed: #authenticated]
-		ifFalse: [TogglAccountSettings openWithToggl: self andAccount: self account]
+		ifFalse: [TogglAccountSettings openWithToggl: self andAccount: self account].
+	self changed: #clientLabel
