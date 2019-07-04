@@ -10,7 +10,7 @@ There are two main ways to install the Toggl Client in your Squeak Image. The Cl
 
 #### Installation with .SAR
 
-This installation is the easiest one. Simply go to ```Releases``` in this repository in the upper navigation bar of this site. From there simply download the .sar file from the latest release and drag the downloaded file in your Squeak image. In the opened dialog choose ```Install SAR```. After that you can start using Toggl.
+This installation is the easiest one. Simply go to ```Releases``` in this repository in the upper navigation bar of this site. From there simply download the .sar file from the latest release and drag the downloaded file in your Squeak image. If you have the JSON package already loaded in your image choose ```TogglClient.sar```, otherwise ```TogglClientWithJSON.sar```.In the opened dialog choose ```Install SAR```. After that you can start using Toggl.
 
 #### Installation über Github
 
