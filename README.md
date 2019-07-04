@@ -1,6 +1,7 @@
 # TogglClient [![Build Status][travis_badge]][travis_url] [![Coverage Status][coveralls_badge]][coveralls_url]
-SWT19 - Group 16
+Begonnen von SWT19 - Group 16
 
+Ein Client für Squeak für die [Toggl Webapp](https://www.toggl.com). Die Dokumentation für die Toggl-API, die dabei angesprochen wird, findet sich [hier](https://github.com/toggl/toggl_api_docs).
 
 
 <!-- References -->
