@@ -3,8 +3,6 @@ Created by SWT19 - Group 16
 
 A Squeak Client for the [Toggl Webapp](https://www.toggl.com). The documentation for the used API can be found [here](https://github.com/toggl/toggl_api_docs).
 
-```Als Squeak-Nutzer der nicht mit dem TogglClient vertraut ist, möchte ich eine einzige Anlaufstelle für Installationsanweisungen, Featurebeschreibungen (inkl. welche erwartbaren Features fehlen) und Bedienungsanleitungen (startup, gängigste Features / Workflow) haben.```
-
 ## Installation
 
 There are two main ways to install the Toggl Client in your Squeak Image. The Client is tested and known to work on Squeak 5.2, 5.1 and 5.0. 
