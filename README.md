@@ -10,9 +10,9 @@ There are two main ways to install the Toggl Client in your Squeak Image. The Cl
 
 #### Installation with .SAR
 
-This installation is the easiest one. Simply go to ```Releases``` in this repository in the upper navigation bar of this site. From there simply download the .sar file from the latest release and drag the downloaded file in your Squeak image. If you have the JSON package already loaded in your image choose ```TogglClient.sar```, otherwise ```TogglClientWithJSON.sar```.In the opened dialog choose ```Install SAR```. After that you can start using Toggl.
+This installation is as easy as it gets. Simply go to ```Releases``` in this repository in the upper navigation bar of this site. From there download the .sar file from the latest release and drag the downloaded file in your Squeak image. If you have the JSON package already loaded in your image choose ```TogglClient.sar```, otherwise ```TogglClientWithJSON.sar```.In the opened dialog choose ```Install SAR```. After that you can start using Toggl.
 
-#### Installation über Github
+#### Installation using Github
 
 For this installation you need a git client in Squeak. We recommend the Squeak Object Tracker. You can find the installation instruction for Squot [here](https://github.com/hpi-swa/Squot).  
 
@@ -27,18 +27,17 @@ You can open the Toggl Client by choosing the app "Toggl Client" in the Apps dro
 
 #### Add an time entry
 
-You can use our tool without beeing logged in. Simply press the start button in the corner and the timer will start. You can now give your time entry a description. After you finished your task simply press stop and the timer will end. You can now see your time entry with the description, duration, start and end time down below. If you didn't provide a description, "no description" will be displayed.
+You can use our tool without being logged in. Simply press the start button in the corner and the timer will start. You can now give your time entry a description. After you finished your task simply press stop and the timer will end. You can now see your time entry with the description, duration, start and end time down below. If you didn't provide a description, "no description" will be displayed.
 
+#### Login / Logout with your Toggl account
+
+You can not only track your time offline, but also link your trackings to your online Toggl account. To do so, you have to first login and provide your account information. You can achieve this, by clicking on the "Login" button in the lower button bar. A dialog window where you can type in your account information will open. If you defined a default client before, your account informations will be prefilled there. After you clicked on "Save and Close", a session API token is created and you can click i.e. on "Synchronize". Any time entries you have created before the login are linked to the account you used to login. 
+After a successful login, the label on the button changes to "Logout". You can click it to logout. Thereafter the overview pane is cleared. Be careful, if you logout and have not synchronised your time entries to the server, the time entries are lost. 
+After your logout, you can click again on "Login" to login again.
 
 #### Setup your default client
 
 To minimize the times you have to type in your account info, you can set up a default account info, which is prefilled whenever you want to login. To do so, open the context menu by right-clicking on the time entry overview (the main pane). There you can choose the entry "change default user". Afterwards type in your account info in the following dialog.
-
-#### Login / Logout with your Toggl account
-
-You can not only track your time offline, but also link your trackings to your online Toggl account. To do so, you have to first login and provide your account information. You can achieve this, by clicking on the "Login" button in the lower button bar. There you can type in your account information. If you defined a default client before, these account information are prefilled here. After you clicked on "Save and Close", a session API token is created and you can click i.e. on "Synchronize". Any time entries you have created before the login are linked to the account you used to login. 
-After a successful login, the label on the button changes to "Logout". You can click it to logout. Thereafter the overview pane is cleared. Be careful, if you logout and have not synchronised your time entries to the server, the time entries are lost. 
-After your logout, you can click again on "Login" to login again.
 
 #### Synchronize your trackings
 
