@@ -5,7 +5,7 @@ A Squeak Client for the [Toggl Webapp](https://www.toggl.com). The documentation
 
 ## Installation
 
-There are two main ways to install the Toggl Client in your Squeak Image. The Client is tested and known to work on Squeak 5.2, 5.1 and 5.0. 
+There are two main ways to install the Toggl Client in your Squeak Image. The Client is tested and known to work on Squeak 5.2 and 5.1. 
 
 
 #### Installation with .SAR
