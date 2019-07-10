@@ -14,6 +14,17 @@ This installation is as easy as it gets. Simply go to ```Releases``` in this rep
 
 #### Installation using Metacello
 
+There, install the latest [Metacello](//github.com/dalehenrich/metacello-work) first.
+Then, use the following snippet to load Squot and all its dependencies:
+
+```smalltalk
+Metacello new
+  baseline: 'TogglClient';
+  repository: 'github://hpi-swa/TogglClient:master/packages';
+  load.
+```
+
+
 #### Installation using Github
 
 For this installation you need a git client in Squeak. We recommend the Squeak Object Tracker. You can find the installation instruction for Squot [here](https://github.com/hpi-swa/Squot).  
