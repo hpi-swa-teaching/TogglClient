@@ -20,7 +20,7 @@ Then, use the following snippet to load Squot and all its dependencies:
 ```smalltalk
 Metacello new
   baseline: 'TogglClient';
-  repository: 'github://hpi-swa/TogglClient:master/packages';
+  repository: 'github://hpi-swa-teaching/TogglClient:master/packages';
   load.
 ```
 
