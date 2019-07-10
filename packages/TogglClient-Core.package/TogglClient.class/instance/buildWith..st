@@ -3,7 +3,7 @@ buildWith: aBuilder
 	
 	^ aBuilder build: (aBuilder pluggableWindowSpec new
 		model: self;
-		label: 'Toggl Client';
+		label: #clientLabel;
 		extent: 500@400;
 		children: {
 			self buildPanelWith: aBuilder.

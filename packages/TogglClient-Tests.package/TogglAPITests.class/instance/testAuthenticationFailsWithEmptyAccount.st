@@ -3,5 +3,5 @@ testAuthenticationFailsWithEmptyAccount
 
 	client account userName: ''.
 	client account userPassword: ''.
-	client startAuthentication.
+	client login.
 	self assert: false equals: client authenticated

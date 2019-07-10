@@ -8,4 +8,5 @@ renameTimeEntry
 	self togglAPI 
 		updateTimeEntry: (self currentSelection)
 			WithUser: self account userName Password: self account userPassword.
-	self changed: #timeEntryList
+	self changed: #timeEntryList.
+	self changed: #clientLabel
