@@ -5,12 +5,14 @@ A Squeak Client for the [Toggl Webapp](https://www.toggl.com). The documentation
 
 ## Installation
 
-There are two main ways to install the Toggl Client in your Squeak Image. The Client is tested and known to work on Squeak 5.2 and 5.1. 
+There are three main ways to install the Toggl Client in your Squeak Image. The Client is tested and known to work on Squeak 5.2 and 5.1. 
 
 
 #### Installation with .SAR
 
 This installation is as easy as it gets. Simply go to ```Releases``` in this repository in the upper navigation bar of this site. From there download the .sar file from the latest release and drag the downloaded file in your Squeak image. If you have the JSON package already loaded in your image choose ```TogglClient.sar```, otherwise ```TogglClientWithJSON.sar```.In the opened dialog choose ```Install SAR```. After that you can start using Toggl.
+
+#### Installation using Metacello
 
 #### Installation using Github
 
