@@ -7,4 +7,5 @@ pullTimeEntries
 	self timeEntryList removeAll.
 	json collect: [:jsonTimeEntry | 
 		TogglJsonParser createTimeEntryFromJson: jsonTimeEntry] into: self timeEntryList.
-	self changed: #timeEntryList
+	self changed: #timeEntryList.
+	self changed: #clientLabel

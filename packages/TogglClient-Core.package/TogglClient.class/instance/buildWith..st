@@ -4,7 +4,7 @@ buildWith: aBuilder
 	^ aBuilder build: (aBuilder pluggableWindowSpec new
 		model: self;
 		label: #clientLabel;
-		extent: 500@400;
+		extent: 500 @ 400;
 		children: {
 			self buildPanelWith: aBuilder.
 			self buildTimeEntryListWith: aBuilder.
