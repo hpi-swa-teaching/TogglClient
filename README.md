@@ -15,7 +15,7 @@ This installation is as easy as it gets. Simply go to ```Releases``` in this rep
 #### Installation using Metacello
 
 There, install the latest [Metacello](//github.com/dalehenrich/metacello-work) first.
-Then, use the following snippet to load Squot and all its dependencies:
+Then, use the following snippet to load TogglClient and all its dependencies:
 
 ```smalltalk
 Metacello new
