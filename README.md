@@ -37,10 +37,15 @@ When you've finished the installation for Squot, go on Apps and open the "Git Br
 #### Open Toggl Client
 You can open the Toggl Client by choosing the app "Toggl Client" in the Apps dropdown. With this tool, you can track your working time in Squeak and synchronize your trackings with your Toggl Account.
 
+![Picture showing Toggl Client entry in Tools dropdown](documentation/TogglClient-Open.png)
 
 #### Add an time entry
 
 You can use our tool without being logged in. Simply press the start button in the corner and the timer will start. You can now give your time entry a description. After you finished your task simply press stop and the timer will end. You can now see your time entry with the description, duration, start and end time down below. If you didn't provide a description, "no description" will be displayed.
+
+![Picture showing Toggl Client with empty input field](documentation/TogglClient-AddDescription.png "Toggl Client with empty input field")
+
+![Picture showing Toggl Client main overview with no description time entry](documentation/TogglClient-AddedTimeEntry.png "main overview with no description time entry")
 
 #### Login / Logout with your Toggl account
 
@@ -48,9 +53,13 @@ You can not only track your time offline, but also link your trackings to your o
 After a successful login, the label on the button changes to "Logout". You can click it to logout. Thereafter the overview pane is cleared. Be careful, if you logout and have not synchronised your time entries to the server, the time entries are lost. 
 After your logout, you can click again on "Login" to login again.
 
+![Picture showing Toggl Client with login credentials dialog](documentation/TogglClient-LoginWithInput.png)
+
 #### Setup your default client
 
 To minimize the times you have to type in your account info, you can set up a default account info, which is prefilled whenever you want to login. To do so, open the context menu by right-clicking on the time entry overview (the main pane). There you can choose the entry "change default user". Afterwards type in your account info in the following dialog.
+
+![Picture showing Toggl Client with context menu](documentation/TogglClient-ContextMenu.png)
 
 #### Synchronize your trackings
 
@@ -62,11 +71,9 @@ If you want to give a time entry a new name, you can open the context menu by ri
 
 If you want to start a new time entry with the same description as one before, you can open the context menu by right clicking on the time entry list and press restart. The description is filled in in the description field and the timer starts. 
 
+![Picture showing Toggl Client with context menu](documentation/TogglClient-ContextMenu.png)
+
 ## Known issues and bug
-
-#### Can't rename when not logged in
-
-#### When you have a running time entry, press synchronize and then press stop, the time entry is shown twice
 
 #### Can't use single special characters
 
