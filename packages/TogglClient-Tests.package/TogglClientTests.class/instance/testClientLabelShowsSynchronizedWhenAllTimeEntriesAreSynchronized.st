@@ -12,7 +12,3 @@ testClientLabelShowsSynchronizedWhenAllTimeEntriesAreSynchronized
 	self assert: true equals: (client clientLabel includesSubString: '(synchronized)')
 	
 	
-	
-
-	
-	
