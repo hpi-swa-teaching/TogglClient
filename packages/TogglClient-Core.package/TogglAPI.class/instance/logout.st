@@ -1,4 +1,4 @@
 requests
 logout
 
-	^ WebClient new httpDelete: self url, self sessionsEndpoint
+	^ WebClient new httpDelete: self class apiBaseline, self class sessionsEndpoint
