@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "MR 6/27/2019 10:06",
+		"setUp" : "MR 7/25/2019 08:49",
 		"testCreateTimeEntryFromJsonReturnsTimeEntry" : "MR 6/27/2019 10:06",
 		"testCreateTimeEntryFromJsonReturnsTimeEntryWithoutDescription" : "MR 6/27/2019 10:06",
 		"testCreateTimeEntryFromJsonWithDifferentTimeZoneThanLocal" : "MR 6/27/2019 10:06" } }

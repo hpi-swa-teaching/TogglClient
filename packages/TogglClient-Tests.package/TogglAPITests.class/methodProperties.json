@@ -5,6 +5,6 @@
 		"expectedFailures" : "THH 7/12/2019 11:48",
 		"setUp" : "MR 6/27/2019 09:54",
 		"testAuthenticationFailsWithEmptyAccount" : "THH 7/4/2019 14:49",
-		"testAuthenticationSuccedsWithRealAccount" : "THH 7/4/2019 14:49",
+		"testAuthenticationSuccedsWithRealAccount" : "MR 7/25/2019 08:44",
 		"testGetTimeEntriesResponse" : "THH 7/12/2019 11:46",
 		"testPushTimeEntry" : "MR 6/27/2019 09:54" } }
