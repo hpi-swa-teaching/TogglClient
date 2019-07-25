@@ -1,4 +1,4 @@
-accessing
+initialisation
 initialize
 
 	self userName: TogglAccount defaultName.

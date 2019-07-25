@@ -1,5 +1,5 @@
 tests-building
-testBuildButtonBarWithReturnsSpec
+testBuildButtonBarAndButtonsWithReturnsSpec
 
 	| spec |
 	spec := client buildButtonBarAndButtonsWith: toolbuilder.

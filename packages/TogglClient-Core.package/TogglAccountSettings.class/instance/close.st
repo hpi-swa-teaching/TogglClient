@@ -1,4 +1,4 @@
 actions
 close
 
-	self topView ifNotNil: #delete
+	self topView ifNotNil: [#delete]

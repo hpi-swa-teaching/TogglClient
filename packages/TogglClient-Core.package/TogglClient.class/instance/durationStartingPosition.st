@@ -1,0 +1,4 @@
+accessing
+durationStartingPosition
+
+	^ 3

@@ -1,10 +1,10 @@
 {
 	"category" : "TogglClient-Core",
 	"classinstvars" : [
-		 ],
-	"classvars" : [
 		"DefaultName",
 		"DefaultPassword" ],
+	"classvars" : [
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
 		"userName",
