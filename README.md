@@ -29,7 +29,7 @@ Metacello new
 
 For this installation you need a git client in Squeak. We recommend the Squeak Object Tracker. You can find the installation instruction for Squot [here](https://github.com/hpi-swa/Squot).  
 
-When you've finished the installation for Squot, go on Apps and open the "Git Browser". You should be asked if you want to add a project. Press no. After this right-click on "-- Projects --" and press "clone project". There fill in our github url (https://github.com/hpi-swa/Squot.git) and give the project a name (e.g. Toggl-Client). Then you must choose a directory for the repository. You can create a new directory or choose a existing one. After you finished the setup you should see our github repository in Squot. Our working version is always on the master branch, so you should be able to pull the master branch and start using Toggl. 
+When you've finished the installation for Squot, go on Apps and open the "Git Browser". You should be asked if you want to add a project. Press no. After this right-click on "-- Projects --" and press "clone project". There fill in our github url (https://github.com/hpi-swa-teaching/TogglClient.git) and give the project a name (e.g. Toggl-Client). Then you must choose a directory for the repository. You can create a new directory or choose a existing one. After you finished the setup you should see our github repository in Squot. Our working version is always on the master branch, so you should be able to pull the master branch and start using Toggl. 
 
 
 ## Usage
