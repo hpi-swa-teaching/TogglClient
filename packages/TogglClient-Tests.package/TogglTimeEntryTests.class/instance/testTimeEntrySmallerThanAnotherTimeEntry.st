@@ -1,4 +1,4 @@
 tests
 testTimeEntrySmallerThanAnotherTimeEntry
 
-	self assert: finishedTimeEntry < startedTimeEntry.
+	self assert: finishedTimeEntry < startedTimeEntry

@@ -5,5 +5,5 @@ testAuthenticationFailsWithInvalidAccount
 	response := client togglAPI
 		authenticateWithUsername: ''
 		Password: ''.	
-	self assert: response isSuccess not.
+	self assert: response isSuccess not
 

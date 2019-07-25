@@ -1,4 +1,4 @@
-testing
+stepping
 wantsSteps 
 
 	^ true

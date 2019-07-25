@@ -1,5 +1,5 @@
-toolbuilder
-logout
+actions
+logoutAndCleanTimeEntryList
 
 	self togglAPI logout.
 	self timeEntryList removeAll.

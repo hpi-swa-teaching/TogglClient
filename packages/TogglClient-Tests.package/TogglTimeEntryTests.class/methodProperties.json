@@ -9,7 +9,7 @@
 		"testTimeEntryEqualsItself" : "THH 7/25/2019 14:39",
 		"testTimeEntryNotEqualsAnotherTimeEntry" : "THH 7/25/2019 14:39",
 		"testTimeEntryNotGreaterThanItself" : "THH 7/25/2019 14:42",
-		"testTimeEntrySmallerThanAnotherTimeEntry" : "THH 7/25/2019 14:49",
+		"testTimeEntrySmallerThanAnotherTimeEntry" : "MR 7/25/2019 23:34",
 		"testTimeEntrySmallerThanItself" : "THH 7/25/2019 14:49",
 		"testTimeEntrySmallerThanOrEqualItself" : "THH 7/25/2019 14:46",
-		"testTimeEntrySmallerThanOrEqualThanAnotherTimeEntry" : "THH 7/25/2019 14:47" } }
+		"testTimeEntrySmallerThanOrEqualThanAnotherTimeEntry" : "MR 7/25/2019 23:34" } }

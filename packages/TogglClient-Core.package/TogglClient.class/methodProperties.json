@@ -5,7 +5,7 @@
 	"instance" : {
 		"account" : "lw 5/23/2019 11:56",
 		"account:" : "lw 5/23/2019 11:56",
-		"actionLoginLogout" : "THH 7/25/2019 15:08",
+		"actionLoginLogout" : "MR 7/25/2019 23:25",
 		"actionSynchronize" : "THH 7/4/2019 14:44",
 		"actionToggleStartStop" : "THH 6/17/2019 15:39",
 		"addCurrentTimeEntry" : "THH 7/25/2019 14:30",
@@ -34,7 +34,7 @@
 		"isSynchronized" : "THH 7/4/2019 14:57",
 		"login" : "THH 7/25/2019 15:10",
 		"loginLogoutButtonLabel" : "JB 6/20/2019 13:48",
-		"logout" : "THH 7/25/2019 15:08",
+		"logoutAndCleanTimeEntryList" : "MR 7/25/2019 23:25",
 		"openLoginDialog" : "THH 7/25/2019 15:08",
 		"pullTimeEntries" : "THH 7/25/2019 15:18",
 		"pushLocalTimeEntries" : "MR 6/27/2019 10:23",

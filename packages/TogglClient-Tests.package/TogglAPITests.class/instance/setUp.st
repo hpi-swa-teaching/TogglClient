@@ -8,4 +8,4 @@ setUp
 		description: 'we can still push';
 		startDateAndTime: (DateAndTime now);
 		stopDateAndTime: (DateAndTime now);
-		yourself.
+		yourself

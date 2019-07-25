@@ -1,1 +1,1 @@
-Represents a time tracking entry in toggl.
+Represents a time tracking entry in toggl

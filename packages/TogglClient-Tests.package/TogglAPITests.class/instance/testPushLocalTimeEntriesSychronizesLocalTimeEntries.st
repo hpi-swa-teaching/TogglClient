@@ -3,9 +3,9 @@ testPushLocalTimeEntriesSychronizesLocalTimeEntries
 
 	| account |
 	account := TogglAccount new 
-				userName: self validAccountUser; 
-				userPassword: self validAccountPassword;
-				yourself.
+		userName: self validAccountUser; 
+		userPassword: self validAccountPassword;
+		yourself.
 	client 
 		account: account;
 	 	startTimer;

@@ -1,1 +1,1 @@
-Provides UI and logic for displaying a Toggl client in Squeak
+Provides UI and display logic for a toggl client in Squeak
