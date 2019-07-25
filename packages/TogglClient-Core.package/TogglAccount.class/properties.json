@@ -4,8 +4,7 @@
 		"DefaultName",
 		"DefaultPassword" ],
 	"classvars" : [
-		"DefaultName",
-		"DefaultPassword" ],
+		 ],
 	"commentStamp" : "",
 	"instvars" : [
 		"userName",
