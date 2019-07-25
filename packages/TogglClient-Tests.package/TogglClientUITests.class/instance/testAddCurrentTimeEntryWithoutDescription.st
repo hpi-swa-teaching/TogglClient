@@ -1,4 +1,4 @@
-running
+tests
 testAddCurrentTimeEntryWithoutDescription
 	
 	togglClient currentText: ''.

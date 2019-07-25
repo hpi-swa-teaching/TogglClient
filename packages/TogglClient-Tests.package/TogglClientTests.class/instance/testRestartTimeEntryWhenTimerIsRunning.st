@@ -3,7 +3,8 @@ testRestartTimeEntryWhenTimerIsRunning
 
 	client addTimeEntry: (TogglTimeEntry new 
 								description: 'Test';
-								startDateAndTime: DateAndTime now).
+								startDateAndTime: DateAndTime now;
+								yourself).
 	client startTimer.
 	client currentSelection: client timeEntryList first.
 	client restartTimeEntry. 

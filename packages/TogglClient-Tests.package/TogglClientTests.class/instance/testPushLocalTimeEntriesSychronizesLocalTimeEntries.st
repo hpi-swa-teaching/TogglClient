@@ -1,11 +1,12 @@
 tests
 testPushLocalTimeEntriesSychronizesLocalTimeEntries
 
-	| account client |
+	| account |
 	account := TogglAccount new 
 				userName: 'yugizeto@googlemail.com'; 
-				userPassword: 'thisisasqueaktest123'.
-	client := TogglClient new account: account.
+				userPassword: 'thisisasqueaktest123';
+				yourself.
+	client account: account.
 	client startTimer.
 	client login.
 	client addCurrentTimeEntry.

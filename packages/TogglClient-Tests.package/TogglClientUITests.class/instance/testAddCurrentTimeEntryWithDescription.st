@@ -1,4 +1,4 @@
-running
+tests
 testAddCurrentTimeEntryWithDescription
 	
 	togglClient timeEntryList removeAll.
