@@ -1,0 +1,4 @@
+accessing
+durationEndingPosition
+
+	^ 10

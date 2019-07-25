@@ -1,7 +1,8 @@
 {
 	"category" : "TogglClient-Core",
 	"classinstvars" : [
-		 ],
+		"DefaultName",
+		"DefaultPassword" ],
 	"classvars" : [
 		"DefaultName",
 		"DefaultPassword" ],
