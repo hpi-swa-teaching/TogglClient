@@ -79,8 +79,6 @@ If you want to start a new time entry with the same description as one before, y
 
 #### Time entries with 0 seconds duration are displayed without duration, start and end time after synchronize
 
-## Development
-### Testing
 
 
 <!-- References -->
