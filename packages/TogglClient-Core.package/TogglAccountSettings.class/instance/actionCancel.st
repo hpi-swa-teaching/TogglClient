@@ -1,4 +1,4 @@
 actions
 actionCancel
 
-	self changed: #close.
+	self changed: #close

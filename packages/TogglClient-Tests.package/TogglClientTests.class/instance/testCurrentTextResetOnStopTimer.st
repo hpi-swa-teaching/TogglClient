@@ -1,5 +1,6 @@
 tests
 testCurrentTextResetOnStopTimer
+
 	client startTimer.
 	client currentText: 'test'.
 	client stopTimerAndAddTimeEntry.

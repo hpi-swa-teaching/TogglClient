@@ -2,4 +2,4 @@ initialize-release
 initialize
 
 	super initialize.
-	self isSynchronized: false.
+	self isSynchronized: false

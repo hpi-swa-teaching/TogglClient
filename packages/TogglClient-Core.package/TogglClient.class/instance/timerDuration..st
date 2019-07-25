@@ -1,4 +1,4 @@
 accessing
 timerDuration: anObject
 
-	timerDuration := anObject.
+	timerDuration := anObject

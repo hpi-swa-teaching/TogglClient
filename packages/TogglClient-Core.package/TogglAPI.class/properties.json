@@ -1,14 +1,14 @@
 {
 	"category" : "TogglClient-Core",
 	"classinstvars" : [
-		 ],
+		"url",
+		"timeEntryEndpoint",
+		"sessionsEndpoint" ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"url",
-		"timeEntryEndpoint",
-		"sessionsEndpoint" ],
+		 ],
 	"name" : "TogglAPI",
 	"pools" : [
 		 ],

@@ -1,4 +1,4 @@
 actions
 actionSynchronize
-	self pushLocalTimeEntries.
-	self pullTimeEntries
+
+	self synchronize

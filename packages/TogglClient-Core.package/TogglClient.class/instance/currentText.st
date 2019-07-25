@@ -1,3 +1,4 @@
 accessing
 currentText
+
 	^ currentText

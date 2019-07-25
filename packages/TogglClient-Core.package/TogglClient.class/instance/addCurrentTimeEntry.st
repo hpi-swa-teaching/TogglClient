@@ -1,5 +1,6 @@
 actions
 addCurrentTimeEntry
+
 	| timeEntry |
 	timeEntry := TogglTimeEntry new.
 	timeEntry
@@ -8,4 +9,4 @@ addCurrentTimeEntry
 		stopDateAndTime: DateAndTime now;
 		renameTo: self currentText asString;
 		wid: self account defaultWid.
-	self addTimeEntry: timeEntry.
+	self addTimeEntry: timeEntry
