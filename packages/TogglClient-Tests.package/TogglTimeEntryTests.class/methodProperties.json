@@ -2,10 +2,14 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "MR 6/27/2019 10:09",
-		"testEqualsAnotherTimeEntry" : "MR 6/27/2019 10:09",
-		"testGreaterThanOtherTimeEntry" : "MR 6/27/2019 10:09",
-		"testPrintOnFinishedTimeEntry" : "MR 6/27/2019 10:09",
-		"testPrintOnRunningTimeEntry" : "MR 6/27/2019 10:09",
-		"testSmallerThanOrEqualOtherTimeEntry" : "MR 6/27/2019 10:09",
-		"testSmallerThanOtherTimeEntry" : "MR 6/27/2019 10:09" } }
+		"setUp" : "THH 7/25/2019 14:34",
+		"testGreaterThanOtherTimeEntry" : "THH 7/25/2019 14:47",
+		"testPrintOnFinishedTimeEntry" : "THH 7/25/2019 14:44",
+		"testPrintOnRunningTimeEntry" : "THH 7/25/2019 14:45",
+		"testTimeEntryEqualsItself" : "THH 7/25/2019 14:39",
+		"testTimeEntryNotEqualsAnotherTimeEntry" : "THH 7/25/2019 14:39",
+		"testTimeEntryNotGreaterThanItself" : "THH 7/25/2019 14:42",
+		"testTimeEntrySmallerThanAnotherTimeEntry" : "THH 7/25/2019 14:49",
+		"testTimeEntrySmallerThanItself" : "THH 7/25/2019 14:49",
+		"testTimeEntrySmallerThanOrEqualItself" : "THH 7/25/2019 14:46",
+		"testTimeEntrySmallerThanOrEqualThanAnotherTimeEntry" : "THH 7/25/2019 14:47" } }

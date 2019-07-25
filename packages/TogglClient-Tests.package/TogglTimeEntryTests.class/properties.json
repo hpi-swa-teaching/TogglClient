@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"togglClient",
-		"testTimeEntry",
-		"anotherTimeEntry" ],
+		"client",
+		"finishedTimeEntry",
+		"startedTimeEntry" ],
 	"name" : "TogglTimeEntryTests",
 	"pools" : [
 		 ],

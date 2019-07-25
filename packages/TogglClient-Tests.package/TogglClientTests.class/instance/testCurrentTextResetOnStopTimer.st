@@ -1,7 +1,8 @@
 tests
 testCurrentTextResetOnStopTimer
 
-	client startTimer.
-	client currentText: 'test'.
-	client stopTimerAndAddTimeEntry.
+	client 
+		startTimer;
+		currentText: 'test';
+		stopTimerAndAddTimeEntry.
 	self assert: client currentText equals: String empty

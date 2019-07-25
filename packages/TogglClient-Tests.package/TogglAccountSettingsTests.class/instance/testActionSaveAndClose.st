@@ -1,11 +1,12 @@
 tests
 testActionSaveAndClose
 
-	| user pw |
+	| user password |
 	user := 'thisisauser'.
-	pw := 'thisisapassword'.
+	password := 'thisisapassword'.
+	
 	accountSettings actionUserName: user.
-	accountSettings actionUserPassword: pw.
+	accountSettings actionUserPassword: password.
 	accountSettings actionSaveAndClose.
 	self assert: user equals: account userName.
-	self assert: pw equals: account userPassword
+	self assert: password equals: account userPassword

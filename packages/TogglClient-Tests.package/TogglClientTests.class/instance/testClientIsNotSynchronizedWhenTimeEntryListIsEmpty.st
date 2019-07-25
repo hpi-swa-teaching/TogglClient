@@ -2,7 +2,7 @@ tests
 testClientIsNotSynchronizedWhenTimeEntryListIsEmpty
 
 	client timeEntryList removeAll.
-	self assert: false equals: client isSynchronized
+	self assert: client isSynchronized not
 
 	
 	

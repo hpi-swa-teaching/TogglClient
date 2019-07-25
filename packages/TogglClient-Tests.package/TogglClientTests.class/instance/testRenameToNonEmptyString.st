@@ -1,6 +1,6 @@
 tests
 testRenameToNonEmptyString
 
-	client addTimeEntry: (TogglTimeEntry new description: 'Test').
+	client addTimeEntry: namedTimeEntry.
 	client timeEntryList first renameTo: 'Toggl'.
 	self assert: 'Toggl' equals: client timeEntryList first description

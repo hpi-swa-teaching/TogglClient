@@ -3,7 +3,7 @@ testActionToggleStartStopIfTimerIsRunning
 
 	client startTimer.
 	client actionToggleStartStop.
-	self assert: false equals: client timerIsRunning
+	self assert: client timerIsRunning not
 
 	
 	

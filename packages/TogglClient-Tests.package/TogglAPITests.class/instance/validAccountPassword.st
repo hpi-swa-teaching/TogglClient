@@ -1,0 +1,4 @@
+tests
+validAccountPassword
+
+	^  'thisisasqueaktest123'

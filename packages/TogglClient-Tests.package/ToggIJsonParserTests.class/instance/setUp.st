@@ -1,14 +1,7 @@
 running
 setUp
 
-	testTimeEntry := TogglTimeEntry new
-		id: 1;
-		wid: 1234;
-		description: 'anothertest';
-		startDateAndTime: (DateAndTime fromString: '2019-01-01 13:37:00');
-		stopDateAndTime: (DateAndTime fromString: '2019-01-01 13:37:10');
-		yourself.
-	testJson := 	'{
+	validJson := 	'{
 		"id":1234,
 		"guid":"82c539f326380dc9ebcdb4860d2279d7",
 		"wid":3379844,"pid":151132647,
@@ -20,7 +13,7 @@ setUp
 		"duronly":false,
 		"at":"2019-05-23T09:31:45+00:00",
 		"uid":4787965}'.
-	noDescriptionJson :='{
+	noDescriptionJson := '{
 		"id":1234,
 		"guid":"82c539f326380dc9ebcdb4860d2279d7",
 		"wid":3379844,

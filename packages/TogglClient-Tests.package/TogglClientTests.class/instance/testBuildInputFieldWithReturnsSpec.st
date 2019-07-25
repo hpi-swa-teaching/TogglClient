@@ -1,4 +1,4 @@
-tests-building
+tests-toolbuilder
 testBuildInputFieldWithReturnsSpec
 
 	| spec |
