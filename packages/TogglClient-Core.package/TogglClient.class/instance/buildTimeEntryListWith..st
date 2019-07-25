@@ -7,18 +7,14 @@ buildTimeEntryListWith: aBuilder
 		menu: #timeEntryListMenu:;
 		getSelected: #currentSelection;
 		setSelected: #currentSelection:;
-		columns: {[:listMorph | (listMorph filteredItems collect: [:item |
-					item preferredWidthOfColumn: 1]) max].
-				[:listMorph | (listMorph filteredItems collect: [:item |
-					item preferredWidthOfColumn: 3]) max].
-			[:listMorph | (listMorph filteredItems collect: [:item |
-					item preferredWidthOfColumn: 3]) max].
-			[:listMorph | (listMorph filteredItems collect: [:item |
-					item preferredWidthOfColumn: 3]) max].
-			[:listMorph | (listMorph filteredItems collect: [:item |
-					item preferredWidthOfColumn: 3]) max].
-				nil "take all the space"};
-		frame: (LayoutFrame new
+		columns: {
+			[:listMorph | (listMorph filteredItems collect: [:item |item preferredWidthOfColumn: 1]) max].
+			[:listMorph | (listMorph filteredItems collect: [:item | item preferredWidthOfColumn: 3]) max].
+			[:listMorph | (listMorph filteredItems collect: [:item | item preferredWidthOfColumn: 3]) max].
+			[:listMorph | (listMorph filteredItems collect: [:item | item preferredWidthOfColumn: 3]) max].
+			[:listMorph | (listMorph filteredItems collect: [:item | item preferredWidthOfColumn: 3]) max].
+			nil "take all the space" };
+		frame: (LayoutFrame new 
 			leftFraction: 0 offset: 0;
 			topFraction: 0.1 offset: 0;
 			rightFraction: 1 offset: 0;
