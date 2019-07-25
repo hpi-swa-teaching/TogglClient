@@ -8,7 +8,9 @@
 	"instvars" : [
 		"client",
 		"toolbuilder",
-		"testTimeEntry" ],
+		"testTimeEntry",
+		"user",
+		"password" ],
 	"name" : "TogglAPITests",
 	"pools" : [
 		 ],

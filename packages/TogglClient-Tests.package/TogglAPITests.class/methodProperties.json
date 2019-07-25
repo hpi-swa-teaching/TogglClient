@@ -3,8 +3,10 @@
 		 },
 	"instance" : {
 		"expectedFailures" : "THH 7/12/2019 11:48",
-		"setUp" : "MR 6/27/2019 09:54",
+		"setUp" : "JZY 6/27/2019 10:48",
 		"testAuthenticationFailsWithEmptyAccount" : "lw 7/25/2019 10:24",
 		"testAuthenticationSuccedsWithRealAccount" : "MR 7/25/2019 08:44",
 		"testGetTimeEntriesResponse" : "THH 7/12/2019 11:46",
-		"testPushTimeEntry" : "MR 6/27/2019 09:54" } }
+		"testLoginLogout" : "JZY 6/27/2019 09:52",
+		"testPushTimeEntry" : "MR 6/27/2019 09:54",
+		"testUpdateTimeEntry" : "JZY 6/27/2019 11:20" } }
