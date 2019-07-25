@@ -1,7 +1,7 @@
 actions
 stopTimerAndAddTimeEntry
 
-	self timerIsRunning ifTrue:[
+	self timerIsRunning ifTrue: [
 		self
 			stopTimer;
 			addCurrentTimeEntry;

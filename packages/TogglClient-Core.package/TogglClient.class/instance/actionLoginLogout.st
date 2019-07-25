@@ -1,5 +1,5 @@
 actions
-actionAuthenticate
+actionLoginLogout
 
 	self authenticated
 		ifTrue: [

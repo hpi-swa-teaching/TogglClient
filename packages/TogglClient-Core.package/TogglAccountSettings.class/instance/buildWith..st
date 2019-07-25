@@ -8,4 +8,5 @@ buildWith: builder
 		extent: 200 @ 60;
 		message: 'Edit global Toggl account information:';
 		children: {self buildInputPanelWith: builder};
-		buttons: (self buildButtonsWith: builder))
+		buttons: (self buildButtonsWith: builder);
+		yourself)

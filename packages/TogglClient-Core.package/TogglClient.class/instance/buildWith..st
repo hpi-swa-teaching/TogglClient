@@ -6,10 +6,10 @@ buildWith: aBuilder
 		label: #clientLabel;
 		extent: 500 @ 400;
 		children: {
-			self buildPanelWith: aBuilder.
-			self buildTimeEntryListWith: aBuilder.
-			self buildInputFieldWith: aBuilder.
-			self buildTimerWith: aBuilder.
-			self buildStartStopButtonWith: aBuilder.
-			self buildButtonBarWith: aBuilder }
+			self buildPanelWith: aBuilder . 
+			self buildTimeEntryListWith: aBuilder .
+			self buildInputFieldWith: aBuilder .
+			self buildTimerWith: aBuilder .
+			self buildStartStopButtonWith: aBuilder . 
+			self buildButtonBarAndButtonsWith: aBuilder };
 		yourself)
