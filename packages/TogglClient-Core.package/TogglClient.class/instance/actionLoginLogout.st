@@ -2,12 +2,6 @@ actions
 actionLoginLogout
 
 	self authenticated
-		ifTrue: [
-			self togglAPI logout.
-			self timeEntryList removeAll.
-			self 
-				authenticated: false;
-				changed: #timeEntryList;
-				changed: #authenticated]
-		ifFalse: [TogglAccountSettings openWithToggl: self andAccount: self account].
+		ifTrue: [self logout]
+		ifFalse: [self openLoginDialog].
 	self changed: #clientLabel

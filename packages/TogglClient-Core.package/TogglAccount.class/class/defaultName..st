@@ -1,4 +1,4 @@
-accessing
+default
 defaultName: aString
 
 	DefaultName := aString

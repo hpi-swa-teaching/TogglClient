@@ -2,7 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
-		"setUp" : "THH 7/25/2019 14:34",
+		"setUp" : "THH 7/25/2019 16:20",
 		"testGreaterThanOtherTimeEntry" : "THH 7/25/2019 14:47",
 		"testPrintOnFinishedTimeEntry" : "THH 7/25/2019 14:44",
 		"testPrintOnRunningTimeEntry" : "THH 7/25/2019 14:45",

@@ -1,0 +1,1 @@
+Converts json strings to TogglTimeEntries and back

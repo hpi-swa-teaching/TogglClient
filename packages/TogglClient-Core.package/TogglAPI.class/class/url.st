@@ -1,4 +1,4 @@
-as yet unclassified
+default
 url
 
 	^ 'https://www.toggl.com'

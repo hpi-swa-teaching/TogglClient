@@ -4,10 +4,9 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "THH 7/25/2019 16:24",
 	"instvars" : [
 		"client",
-		"toolbuilder",
 		"validTimeEntry" ],
 	"name" : "TogglAPITests",
 	"pools" : [

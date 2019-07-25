@@ -5,7 +5,7 @@
 		"DefaultPassword" ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "THH 7/25/2019 15:54",
 	"instvars" : [
 		"userName",
 		"userPassword",

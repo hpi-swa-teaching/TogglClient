@@ -1,4 +1,4 @@
-initialisation
+initialize-release
 authenticated
 
 	^ authenticated
