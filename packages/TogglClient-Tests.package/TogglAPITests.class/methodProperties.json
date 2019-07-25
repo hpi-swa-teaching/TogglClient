@@ -3,7 +3,7 @@
 		 },
 	"instance" : {
 		"expectedFailures" : "THH 7/25/2019 13:02",
-		"setUp" : "THH 7/25/2019 13:47",
+		"setUp" : "THH 7/25/2019 16:53",
 		"testActionLogout" : "THH 7/25/2019 13:46",
 		"testAuthenticationFailsWithInvalidAccount" : "THH 7/25/2019 13:23",
 		"testAuthenticationSucceedsWithValidAccount" : "THH 7/25/2019 13:24",
@@ -15,4 +15,4 @@
 		"testPushTimeEntry" : "THH 7/25/2019 13:42",
 		"testUpdateTimeEntry" : "THH 7/25/2019 13:40",
 		"validAccountPassword" : "THH 7/25/2019 11:56",
-		"validAccountUser" : "THH 7/25/2019 16:29" } }
+		"validAccountUser" : "THH 7/25/2019 16:42" } }

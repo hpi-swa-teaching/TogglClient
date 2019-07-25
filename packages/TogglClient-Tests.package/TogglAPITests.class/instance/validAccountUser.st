@@ -1,4 +1,4 @@
 tests
 validAccountUser
 
-	^ 'thisisasqueaktest@gmail.com'
+	^ 'squeaktogglclient@web.de'
