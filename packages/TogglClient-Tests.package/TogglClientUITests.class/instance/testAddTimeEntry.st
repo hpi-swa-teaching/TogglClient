@@ -1,4 +1,4 @@
-running
+tests
 testAddTimeEntry
 	
 	togglClient timeEntryList removeAll.

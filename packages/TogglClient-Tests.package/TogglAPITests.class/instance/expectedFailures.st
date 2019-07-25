@@ -1,4 +1,4 @@
-as yet unclassified
+tests
 expectedFailures
 	
 	((Smalltalk classNamed: 'WebClient') httpGet: TogglAPI url) isSuccess

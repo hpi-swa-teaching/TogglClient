@@ -11,4 +11,3 @@ setUp
 		startDateAndTime: (DateAndTime now);
 		stopDateAndTime: (DateAndTime now);
 		yourself.
-	toolbuilder := ToolBuilder default
