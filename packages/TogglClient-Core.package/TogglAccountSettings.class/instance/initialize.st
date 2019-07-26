@@ -1,5 +1,5 @@
-initialisation
+initialize-release
 initialize
 
-	self userName: TogglAccount defaultName.
-	self userPassword: TogglAccount defaultPassword
+	self userName: (TogglAccount defaultName ifNil: [String empty]).
+	self userPassword: (TogglAccount defaultPassword ifNil: [String empty]).

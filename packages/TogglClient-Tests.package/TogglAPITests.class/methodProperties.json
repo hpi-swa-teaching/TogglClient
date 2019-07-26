@@ -2,11 +2,17 @@
 	"class" : {
 		 },
 	"instance" : {
-		"expectedFailures" : "THH 7/12/2019 11:48",
-		"setUp" : "lw 7/25/2019 11:53",
-		"testAuthenticationFailsWithEmptyAccount" : "lw 7/25/2019 10:24",
-		"testAuthenticationSuccedsWithRealAccount" : "MR 7/25/2019 08:44",
-		"testGetTimeEntriesResponse" : "THH 7/12/2019 11:46",
-		"testLoginLogout" : "JZY 6/27/2019 09:52",
-		"testPushTimeEntry" : "MR 6/27/2019 09:54",
-		"testUpdateTimeEntry" : "JZY 6/27/2019 11:20" } }
+		"expectedFailures" : "THH 7/25/2019 13:02",
+		"setUp" : "MR 7/25/2019 23:35",
+		"testActionLogout" : "THH 7/25/2019 13:46",
+		"testAuthenticationFailsWithInvalidAccount" : "THH 7/26/2019 13:28",
+		"testAuthenticationSucceedsWithValidAccount" : "MR 7/25/2019 23:34",
+		"testGetTimeEntriesResponse" : "THH 7/25/2019 13:15",
+		"testLoginFailsWithInvalidAccount" : "THH 7/26/2019 13:29",
+		"testLoginSucceedsWithValidAccount" : "THH 7/25/2019 13:31",
+		"testLogout" : "THH 7/25/2019 13:44",
+		"testPushLocalTimeEntriesSychronizesLocalTimeEntries" : "MR 7/25/2019 23:36",
+		"testPushTimeEntry" : "THH 7/25/2019 13:42",
+		"testUpdateTimeEntry" : "THH 7/25/2019 13:40",
+		"validAccountPassword" : "THH 7/25/2019 11:56",
+		"validAccountUser" : "THH 7/25/2019 16:42" } }

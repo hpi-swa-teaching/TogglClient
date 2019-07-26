@@ -1,0 +1,4 @@
+tests
+testTimeEntrySmallerThanOrEqualThanAnotherTimeEntry
+
+	self assert: finishedTimeEntry <= startedTimeEntry

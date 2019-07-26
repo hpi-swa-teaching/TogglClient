@@ -1,4 +1,4 @@
-tests-building
+tests-toolbuilder
 testBuildButtonBarWithReturnsSpec
 
 	| spec |

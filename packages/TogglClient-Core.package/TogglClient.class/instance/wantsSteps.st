@@ -1,4 +1,4 @@
-actions
+stepping
 wantsSteps 
 
 	^ true

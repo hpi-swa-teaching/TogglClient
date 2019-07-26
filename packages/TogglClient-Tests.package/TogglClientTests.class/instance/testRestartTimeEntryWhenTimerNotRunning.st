@@ -1,12 +1,13 @@
 tests
 testRestartTimeEntryWhenTimerNotRunning
 
-	client addTimeEntry: (TogglTimeEntry new description: 'Test').
-	client currentSelection: client timeEntryList first.
-	client restartTimeEntry. 
-	
+	client 
+		addTimeEntry: namedTimeEntry;
+		currentSelection: client timeEntryList first;
+		restartTimeEntry. 
+		
 	self assert: 'Test' equals: client currentText.
-	self assert: true equals: client timerIsRunning.
+	self assert: client timerIsRunning.
 	self assert: 'Stop' equals: client startStopTimerLabel
 
 	

@@ -1,5 +1,1 @@
-Form to edit the local settings of a Git repository.
-
-Instance Variables
-	userEmail:		<String>
-	userName:		<String>
+Displays an input dialog so that the user can input credentials

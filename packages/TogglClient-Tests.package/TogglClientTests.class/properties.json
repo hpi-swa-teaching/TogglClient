@@ -4,10 +4,13 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "THH 7/25/2019 16:25",
 	"instvars" : [
 		"client",
-		"toolbuilder" ],
+		"toolbuilder",
+		"synchronizedTimeEntry",
+		"notSynchronizedTimeEntry",
+		"namedTimeEntry" ],
 	"name" : "TogglClientTests",
 	"pools" : [
 		 ],

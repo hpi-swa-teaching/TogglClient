@@ -1,6 +1,5 @@
-tests
+failures
 expectedFailures
 	
-	((Smalltalk classNamed: 'WebClient') httpGet: TogglAPI url) isSuccess
-		ifTrue: [ ^#() ]
-		ifFalse: [ ^ self class testSelectors ]
+	[WebClient httpGet: TogglAPI url] on: NetworkError do: [ ^ self class testSelectors ].
+	^ #() 

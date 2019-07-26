@@ -1,0 +1,1 @@
+Sends requests to the toggl web API using a WebClient

@@ -1,9 +1,0 @@
-{
-	"class" : {
-		 },
-	"instance" : {
-		"setUp" : "MR 6/27/2019 10:08",
-		"testAddCurrentTimeEntryWithDescription" : "MR 6/27/2019 10:08",
-		"testAddCurrentTimeEntryWithoutDescription" : "MR 6/27/2019 10:08",
-		"testAddMultipleTimeEntriesWithDifferentDescriptions" : "MR 6/27/2019 10:08",
-		"testAddTimeEntry" : "JZY 5/23/2019 15:25" } }

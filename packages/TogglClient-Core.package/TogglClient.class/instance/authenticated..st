@@ -1,4 +1,4 @@
-initialisation
+accessing
 authenticated: aBoolean
 
 	authenticated := aBoolean

@@ -1,0 +1,1 @@
+Holds the credentials of a toggl user

@@ -1,0 +1,1 @@
+Tests for TogglAPI and methods from other classes containing API requests

@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "THH 7/25/2019 16:25",
 	"instvars" : [
-		"togglClient",
-		"testTimeEntry",
-		"anotherTimeEntry" ],
+		"client",
+		"finishedTimeEntry",
+		"startedTimeEntry" ],
 	"name" : "TogglTimeEntryTests",
 	"pools" : [
 		 ],

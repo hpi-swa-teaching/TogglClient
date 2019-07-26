@@ -4,11 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "THH 7/25/2019 16:24",
 	"instvars" : [
-		"testTimeEntry",
-		"testJson",
-		"noDescriptionJson" ],
+		"noDescriptionJson",
+		"validJson" ],
 	"name" : "ToggIJsonParserTests",
 	"pools" : [
 		 ],

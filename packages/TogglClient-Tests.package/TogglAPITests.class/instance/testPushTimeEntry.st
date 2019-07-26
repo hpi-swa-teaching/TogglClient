@@ -3,11 +3,11 @@ testPushTimeEntry
 
 	| response json |	
 	response := client togglAPI
-		pushTimeEntry: testTimeEntry
-		WithUser: 'yugizeto@googlemail.com' 
-		Password:  'thisisasqueaktest123'.
+		pushTimeEntry: validTimeEntry
+		WithUser: self validAccountUser
+		Password: self validAccountPassword.
 		
-	self assert: response url = 'https://www.toggl.com/api/v8/time_entries'.
-	self assert: response code = 200.
+	self assert: 'https://www.toggl.com/api/v8/time_entries' equals: response url.
+	self assert: response isSuccess.
 	json := TogglJsonParser jsonFromResponse: response.
 	self assert: ((json at: 'data') at: 'description') equals: 'we can still push'

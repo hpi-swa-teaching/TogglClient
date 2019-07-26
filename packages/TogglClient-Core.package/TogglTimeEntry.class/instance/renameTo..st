@@ -1,4 +1,4 @@
-rename
+action
 renameTo: aString
 
 	aString ifEmpty: [self description: 'no description']
