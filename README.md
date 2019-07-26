@@ -75,7 +75,7 @@ If you want to start a new time entry with the same description as one before, y
 
 ## Known issues and bug
 
-#### Can't use single special characters
+#### Can't use single special characters (such as e.g. <, >, *, &, ...). German special characters ö, ä, ü are supported though. 
 
 #### Time entries with 0 seconds duration are displayed without duration, start and end time after synchronize
 
